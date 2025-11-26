@@ -78,7 +78,7 @@ table {{
 df = pd.read_csv("total_matchups.csv")
 
 # Temporary Exclusion
-df = df[~((df["Season"] == 2025) & (df["Week"] > 11))]
+#df = df[~((df["Season"] == 2025) & (df["Week"] > 11))]
 
 # Filter out invalid rows
 df = df[df["Team Score"] != 0]
