@@ -131,7 +131,6 @@ div[data-testid="stSidebarNav"] li a[aria-current="page"] {{
 season = st.session_state.get("season", 2024)
 
 # === LOAD DATA ===
-@st.cache_data
 def load_data():
     df = load_and_filter_csv("weekly_matchups.csv", season)  # replace with your actual file
 
