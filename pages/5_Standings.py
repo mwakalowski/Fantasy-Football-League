@@ -136,6 +136,7 @@ highlight_cols = [
     "AVG", 
     "HIGH", 
     "MED",
+    "LOW",
     "Points_Against_Sum"
 ]
 
