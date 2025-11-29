@@ -374,7 +374,7 @@ for col in display_columns:
     if col == "Headshot":
         # Empty header for logo column
         table_html += (
-            f"<th style='padding:6px; border-bottom:1px solid #444; border-left: none; border-right: none;"
+            f"<th style='padding:4px; border-bottom:1px solid #444; border-left: none; border-right: none;"
             f"background-color:{ROW_ALT}; font-family: Oswald, sans-serif; font-weight:175; text-align:left;'></th>"
         )
 
@@ -382,7 +382,7 @@ for col in display_columns:
         # Left-align Player header
         header_label = header_map.get(col, col)
         table_html += (
-            f"<th style='padding:6px; border-bottom:1px solid #444; border-left: none; border-right: none;"
+            f"<th style='padding:4px; border-bottom:1px solid #444; border-left: none; border-right: none;"
             f"font-family: Oswald, sans-serif; font-weight:175; text-align:left;"
             f"background-color:{ROW_ALT};'>{header_label}</th>"
         )
@@ -390,7 +390,7 @@ for col in display_columns:
     else:
         header_label = header_map.get(col, col)
         table_html += (
-            f"<th style='padding:6px; border-bottom:1px solid #444; border-left: none; border-right: none;"
+            f"<th style='padding:4px; border-bottom:1px solid #444; border-left: none; border-right: none;"
             f"font-family: Oswald, sans-serif; font-weight: 175; "
             f"background-color:{ROW_ALT};'>{header_label}</th>"
         )
@@ -462,7 +462,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 f"font-size:0.85em; "
                 f"white-space:nowrap;'>{slot_value}</span>"
             )
-            table_html += f"<td style='padding:1px; border:none; text-align:center;'>{pill_html}</td>"
+            table_html += f"<td style='padding:6px; border:none; text-align:center;'>{pill_html}</td>"
         
         else:
             cell_value = row[col]
