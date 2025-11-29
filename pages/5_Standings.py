@@ -128,6 +128,13 @@ header_map = {
 # --- COLUMNS TO DISPLAY ---
 display_columns = ["Rank", "Abbrev", "Record", "Team_Score_Sum", "Team_Projected_Sum", "Points_Against_Sum", "AVG", "HIGH", "MED", "LOW"]
 
+# Columns to apply color gradient to
+highlight_cols = ["Team_Score_Sum", "Team_Projected_Sum", "AVG", "HIGH", "MED", "LOW"]
+
+# Precompute min/max per column
+col_min = {col: agg_df[col].min() for col in highlight_cols}
+col_max = {col: agg_df[col].max() for col in highlight_cols}
+
 # --- BUILD HTML TABLE ---
 table_html = f"""
 <table style='background-color:{CARD_BG}; border-collapse:collapse; width:100%; text-align:center; border:none;'>
@@ -180,11 +187,27 @@ for i, (_, row) in enumerate(agg_df.iterrows()):
             table_html += f"<td style='padding:8px; {style}'>{row[col]}</td>"
 
         else:
-            # Numeric columns center aligned and ESPN_BLUE color for scores
             style += " text-align: center;"
-            if col in ["Team_Score_Sum", "Team_Projected_Sum", "Points_Against_Sum", "AVG", "HIGH", "MED", "LOW"]:
+        
+            if col in ["Team_Score_Sum", "Team_Projected_Sum", "AVG", "HIGH", "MED"]:
+                value = row[col]
+        
+                if value == col_max[col]:
+                    color = GREEN_DARK
+                elif value == col_min[col]:
+                    color = RED_DARK
+                else:
+                    color = LIGHT_GREY
+        
+                style += f" color:{color};"
+                cell_html = f"{value:,.1f}"
+        
+            elif col in ["Points_Against_Sum", "LOW"]:
+                # These remain normal light grey
                 style += f" color:{LIGHT_GREY};"
-            table_html += f"<td style='padding:8px; {style}'>{row[col]:,.1f}</td>"
+                cell_html = f"{row[col]:,.1f}"
+        
+            table_html += f"<td style='padding:8px; {style}'>{cell_html}</td>"
         
     table_html += "</tr>"
 
