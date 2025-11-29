@@ -16,6 +16,8 @@ LIGHT_GREY = "#A9A9A9"
 RED = "#FF0000"
 ESPN_BLUE = "#3F8EF3"
 ESPN_GREEN = "#00FF66" # ESPN green for active page border
+GREEN_DARK = "#228B22"
+RED_DARK = "#B22222"
 
 # --- NFL TEAM LOGO MAPPING ---
 nfl_logo_map = {
@@ -340,12 +342,12 @@ under_html = "".join(
 right_panel_inner = (
     f"<div style='display:flex;'>"
     f"  <div style='flex:1; padding-right:4px;'>"
-    f"    <div style='color:{ESPN_GREEN}; font-family:Oswald,sans-serif; font-size:16px; margin-bottom:8px;'>TOP PERFORMERS</div>"
+    f"    <div style='color:{GREEN_DARK}; font-family:Oswald,sans-serif; font-size:16px; margin-bottom:8px;'>TOP PERFORMERS</div>"
     f"    {top_html}"
     f"  </div>"
     f"  <div style='width:1px; background-color:{LIGHT_GREY}; opacity:0.5; margin:0 8px;'></div>"
     f"  <div style='flex:1; padding-left:4px;'>"
-    f"    <div style='color:{RED}; font-family:Oswald,sans-serif; font-size:16px; margin-bottom:8px;'>BIGGEST UNDERACHIEVERS</div>"
+    f"    <div style='color:{RED_DARK}; font-family:Oswald,sans-serif; font-size:16px; margin-bottom:8px;'>BIGGEST UNDERACHIEVERS</div>"
     f"    {under_html}"
     f"  </div>"
     f"</div>"
