@@ -195,19 +195,16 @@ for i, (_, row) in enumerate(agg_df.iterrows()):
 
         else:
             style += " text-align: center;"
-            value = row[col]
-            
-            if col in ["Team_Score_Sum", "Team_Projected_Sum", "AVG", "HIGH", "MED", "LOW"]:
+            value = row[col]  # define once for all numeric columns
         
+            # --- Columns where MAX = GREEN, MIN = RED ---
+            if col in ["Team_Score_Sum", "Team_Projected_Sum", "AVG", "HIGH", "MED", "LOW"]:
                 if value == col_max[col]:
                     color = GREEN_DARK
                 elif value == col_min[col]:
                     color = RED_DARK
                 else:
                     color = LIGHT_GREY
-        
-                style += f" color:{color};"
-                cell_html = f"{value:,.1f}"
         
             # --- Points Against: MAX = RED, MIN = GREEN ---
             elif col == "Points_Against_Sum":
@@ -218,10 +215,13 @@ for i, (_, row) in enumerate(agg_df.iterrows()):
                 else:
                     color = LIGHT_GREY
         
-                style += f" color:{color};"
-                cell_html = f"{value:,.1f}"
+            else:
+                color = LIGHT_GREY  # fallback
         
+            style += f" color:{color};"
+            cell_html = f"{value:,.1f}"
             table_html += f"<td style='padding:8px; {style}'>{cell_html}</td>"
+
         
     table_html += "</tr>"
 
