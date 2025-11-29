@@ -462,7 +462,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 f"font-size:0.85em; "
                 f"white-space:nowrap;'>{slot_value}</span>"
             )
-            table_html += f"<td style='padding:6px; border:none; text-align:center;'>{pill_html}</td>"
+            table_html += f"<td style='padding:1px; border:none; text-align:center;'>{pill_html}</td>"
         
         else:
             cell_value = row[col]
