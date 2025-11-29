@@ -445,7 +445,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 headshot_html = f"<img src='{headshot_url}' style='height:40px; border-radius:4px;'>"
             elif pd.notna(player_id):
                 headshot_url = f"https://a.espncdn.com/i/headshots/nfl/players/full/{int(player_id)}.png"
-                headshot_html = f"<img src='{headshot_url}' style='height:40px; border-radius:4px;'>"
+                headshot_html = f"<img src='{headshot_url}' style='height:36px; border-radius:4px;'>"
             else:
                 headshot_html = ""
 
