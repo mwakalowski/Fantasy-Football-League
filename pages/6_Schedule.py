@@ -162,7 +162,7 @@ table_html = f"""
 for col in display_columns:
     header_label = header_map.get(col, col)
     table_html += (
-        f"<th style='padding:8px; border-bottom:1px solid #444; border-left: none; border-right: none;"
+        f"<th style='padding:4px; border-bottom:1px solid #444; border-left: none; border-right: none;"
         f"font-family: Oswald, sans-serif; font-weight: 175; "
         f"background-color:{ROW_ALT};'>{header_label}</th>"
     )
@@ -186,11 +186,11 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 f"<span style='color:{ESPN_BLUE}; font-weight:600; '>{row['Opponent Abbrev']}</span><br>"
                 f"<span style='color:{LIGHT_GREY}; font-size:0.9em;'>{row['Opponent Owner']}</span>"
             )
-            table_html += f"<td style='padding:8px; {style}'>{cell_html}</td>"
+            table_html += f"<td style='padding:4px; {style}'>{cell_html}</td>"
 
         elif col == "Week":
             style += f" color:{LIGHT_GREY};"
-            table_html += f"<td style='padding:8px; {style}'>{row[col]}</td>"
+            table_html += f"<td style='padding:6px; {style}'>{row[col]}</td>"
 
         elif col == "Score":
             style += " text-align: center;"
@@ -209,22 +209,22 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 f"<span style='color:{result_color}; font-weight:600;'>{result_abbrev}</span>"
             )
 
-            table_html += f"<td style='padding:8px; {style}'>{cell_html}</td>"
+            table_html += f"<td style='padding:4px; {style}'>{cell_html}</td>"
 
         elif col == "Type":
             if row[col] == "Playoff":
                 style += f" font-weight:bold; font-size:1.0em;"
             else:
                 style += f" color:{LIGHT_GREY}; font-size:1.0em;"
-            table_html += f"<td style='padding:8px; {style}'>{row[col]}</td>"
+            table_html += f"<td style='padding:4px; {style}'>{row[col]}</td>"
 
         elif col == "Result":
             style += f" text-align: center; color:{LIGHT_GREY};"
             display_val = "(W)" if row[col] == "Win" else "(L)" if row[col] == "Loss" else row[col]
-            table_html += f"<td style='padding:8px; {style}'>{display_val}</td>"
+            table_html += f"<td style='padding:4px; {style}'>{display_val}</td>"
 
         else:
-            table_html += f"<td style='padding:8px; {style}'>{row[col]}</td>"
+            table_html += f"<td style='padding:4px; {style}'>{row[col]}</td>"
 
     table_html += "</tr>"
 
