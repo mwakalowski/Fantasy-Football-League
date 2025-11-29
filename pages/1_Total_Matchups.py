@@ -174,6 +174,9 @@ latest_df["MED"] = latest_df["MED"].round(1)
 latest_df["HIGH"] = latest_df["HIGH"].round(1)
 latest_df["LOW"] = latest_df["LOW"].round(1)
 
+max_avg = latest_df["AVG"].max()
+min_avg = latest_df["AVG"].min()
+
 # --- SORT + RANK ---
 latest_df = latest_df.sort_values("True Win %", ascending=False).reset_index(drop=True)
 latest_df["Rank"] = latest_df.index + 1
@@ -254,7 +257,17 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
             sign = "+" if diff_val > 0 else ""
             cell_html = f"<span style='color:{color}; font-weight:600;'>{sign}{diff_val}%</span>"
 
-        elif col in ["AVG", "MED", "HIGH", "LOW"]:
+        elif col == "AVG":
+            val = row["AVG"]
+            if val == max_avg:
+                style += f" color:{GREEN_DARK}; font-weight:600;"
+            elif val == min_avg:
+                style += f" color:{RED_DARK}; font-weight:600;"
+            else:
+                style += f" color:{LIGHT_GREY};"
+            cell_html = f"{val:.1f}"
+
+        elif col in ["MED", "HIGH", "LOW"]:
             style += f" color:{LIGHT_GREY};"
             cell_html = f"{row[col]:.1f}"
 
