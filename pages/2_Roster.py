@@ -374,7 +374,7 @@ for col in display_columns:
     if col == "Headshot":
         # Empty header for logo column
         table_html += (
-            f"<th style='padding:8px; border-bottom:1px solid #444; border-left: none; border-right: none;"
+            f"<th style='padding:6px; border-bottom:1px solid #444; border-left: none; border-right: none;"
             f"background-color:{ROW_ALT}; font-family: Oswald, sans-serif; font-weight:175; text-align:left;'></th>"
         )
 
@@ -382,7 +382,7 @@ for col in display_columns:
         # Left-align Player header
         header_label = header_map.get(col, col)
         table_html += (
-            f"<th style='padding:8px; border-bottom:1px solid #444; border-left: none; border-right: none;"
+            f"<th style='padding:6px; border-bottom:1px solid #444; border-left: none; border-right: none;"
             f"font-family: Oswald, sans-serif; font-weight:175; text-align:left;"
             f"background-color:{ROW_ALT};'>{header_label}</th>"
         )
@@ -390,7 +390,7 @@ for col in display_columns:
     else:
         header_label = header_map.get(col, col)
         table_html += (
-            f"<th style='padding:8px; border-bottom:1px solid #444; border-left: none; border-right: none;"
+            f"<th style='padding:6px; border-bottom:1px solid #444; border-left: none; border-right: none;"
             f"font-family: Oswald, sans-serif; font-weight: 175; "
             f"background-color:{ROW_ALT};'>{header_label}</th>"
         )
@@ -427,12 +427,12 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 f"<span style='color:{LIGHT_GREY}; font-size:0.9em;'>{row['Position']}</span>"
             )
 
-            table_html += f"<td style='padding:8px; {style}'>{cell_html}</td>"
+            table_html += f"<td style='padding:6px; {style}'>{cell_html}</td>"
 
         elif col == "Acquisition Type":
             # Apply color mapping
             color = acq_colors.get(row[col], TEXT_COLOR)
-            table_html += f"<td style='padding:8px; {style}; color:{color}; font-weight:400; font-size: 0.9em;'>{row['Acquisition Type']}</td>"
+            table_html += f"<td style='padding:6px; {style}; color:{color}; font-weight:400; font-size: 0.9em;'>{row['Acquisition Type']}</td>"
 
         elif col == "Headshot":
             player_id = row.get("Player ID", None)
@@ -449,7 +449,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
             else:
                 headshot_html = ""
 
-            table_html += f"<td style='padding:8px; text-align:center; border:none;'>{headshot_html}</td>"
+            table_html += f"<td style='padding:6px; text-align:center; border:none;'>{headshot_html}</td>"
 
         elif col == "Slot":
             slot_value = row["Slot"]
@@ -462,14 +462,14 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 f"font-size:0.85em; "
                 f"white-space:nowrap;'>{slot_value}</span>"
             )
-            table_html += f"<td style='padding:8px; border:none; text-align:center;'>{pill_html}</td>"
+            table_html += f"<td style='padding:6px; border:none; text-align:center;'>{pill_html}</td>"
         
         else:
             cell_value = row[col]
             # Round numeric values to 1 decimal
             if isinstance(cell_value, numbers.Number):
                 cell_value = round(cell_value, 1)
-            table_html += f"<td style='padding:8px; color: {LIGHT_GREY}; {style}'>{cell_value}</td>"
+            table_html += f"<td style='padding:6px; color: {LIGHT_GREY}; {style}'>{cell_value}</td>"
 
     table_html += "</tr>"
 
