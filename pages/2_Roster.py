@@ -457,7 +457,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 f"<span style='border: 1px solid {ESPN_BLUE}; "
                 f"color:{ESPN_BLUE}; "
                 f"padding:2px 16px; "
-                f"border-radius:4px; "
+                f"border-radius:12px; "
                 f"font-family: Oswald, sans-serif; "
                 f"font-size:0.85em; "
                 f"white-space:nowrap;'>{slot_value}</span>"
