@@ -210,7 +210,7 @@ table_html = f"""
 for col in display_columns:
     header_label = header_map[col]
     th_style = (
-        f"padding:6px; border-bottom:1px solid #444; border-left:none; border-right:none; "
+        f"padding:4px; border-bottom:1px solid #444; border-left:none; border-right:none; "
         f"font-family: Oswald, sans-serif; font-weight:175; background-color:{ROW_ALT};"
     )
     if col == "Abbrev_Owner":
@@ -258,7 +258,7 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
             style += f" color:{LIGHT_GREY};"
             cell_html = f"{row[col]:.1f}"
 
-        table_html += f"<td style='padding:6px; {style}'>{cell_html}</td>"
+        table_html += f"<td style='padding:4px; {style}'>{cell_html}</td>"
 
     table_html += "</tr>"
 
