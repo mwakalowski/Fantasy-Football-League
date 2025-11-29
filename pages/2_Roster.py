@@ -243,7 +243,7 @@ for pos in pos_order:
     count = position_counts.get(pos, 0)
     # Row 1: ovals
     pos_labels_html += f"<div style='display:inline-block;width:{COL_WIDTH};text-align:center;'>" \
-                       f"<div style='display:inline-block;padding:4px 8px;border:1px solid {ESPN_BLUE};" \
+                       f"<div style='display:inline-block;padding:2px 16px;border:1px solid {ESPN_BLUE};" \
                        f"border-radius:16px;color:{ESPN_BLUE};font-family:Oswald,sans-serif;font-size:0.85em; white-space:nowrap'>{pos}</div></div>"
     # Row 2: counts
     pos_counts_html += f"<div style='display:inline-block;width:{COL_WIDTH};text-align:center;color:{TEXT_COLOR};" \
