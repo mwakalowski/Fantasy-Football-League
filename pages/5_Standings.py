@@ -130,10 +130,15 @@ header_map = {
 # --- COLUMNS TO DISPLAY ---
 display_columns = ["Rank", "Abbrev", "Record", "Team_Score_Sum", "Team_Projected_Sum", "Points_Against_Sum", "AVG", "HIGH", "MED", "LOW"]
 
-# Columns to apply color gradient to
-highlight_cols = ["Team_Score_Sum", "Team_Projected_Sum", "AVG", "HIGH", "MED", "LOW"]
+highlight_cols = [
+    "Team_Score_Sum", 
+    "Team_Projected_Sum", 
+    "AVG", 
+    "HIGH", 
+    "MED",
+    "Points_Against_Sum"
+]
 
-# Precompute min/max per column
 col_min = {col: agg_df[col].min() for col in highlight_cols}
 col_max = {col: agg_df[col].max() for col in highlight_cols}
 
@@ -204,10 +209,17 @@ for i, (_, row) in enumerate(agg_df.iterrows()):
                 style += f" color:{color};"
                 cell_html = f"{value:,.1f}"
         
-            elif col in ["Points_Against_Sum", "LOW"]:
-                # These remain normal light grey
-                style += f" color:{LIGHT_GREY};"
-                cell_html = f"{row[col]:,.1f}"
+            # --- Points Against: MAX = RED, MIN = GREEN ---
+            elif col == "Points_Against_Sum":
+                if value == col_max[col]:
+                    color = RED_DARK
+                elif value == col_min[col]:
+                    color = GREEN_DARK
+                else:
+                    color = LIGHT_GREY
+        
+                style += f" color:{color};"
+                cell_html = f"{value:,.1f}"
         
             table_html += f"<td style='padding:8px; {style}'>{cell_html}</td>"
         
