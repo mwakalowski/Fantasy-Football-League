@@ -195,9 +195,9 @@ for i, (_, row) in enumerate(agg_df.iterrows()):
 
         else:
             style += " text-align: center;"
-        
+            value = row[col]
+            
             if col in ["Team_Score_Sum", "Team_Projected_Sum", "AVG", "HIGH", "MED", "LOW"]:
-                value = row[col]
         
                 if value == col_max[col]:
                     color = GREEN_DARK
