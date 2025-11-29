@@ -250,7 +250,7 @@ for pos in pos_order:
                        f"border-radius:16px;color:{ESPN_BLUE};font-family:Oswald,sans-serif;font-size:0.85em; white-space:nowrap'>{pos}</div></div>"
     # Row 2: counts
     pos_counts_html += f"<div style='display:inline-block;width:{COL_WIDTH};text-align:center;color:{TEXT_COLOR};" \
-                       f"font-size:16px;font-family:Oswald,sans-serif;margin-top:3px;'>{str(count)}</div>"
+                       f"font-size:16px;font-family:Oswald,sans-serif;margin-top:2px;'>{str(count)}</div>"
 
 # === LEFT PANEL PARTS (team info + position counts, inner only; outer card added below) ===
 left_panel_inner = f"""
