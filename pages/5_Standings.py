@@ -14,6 +14,8 @@ TEXT_COLOR = "#FFFFFF"
 LIGHT_GREY = "#A9A9A9"
 ESPN_BLUE = "#3F8EF3"
 ESPN_GREEN = "#00FF66" # ESPN green for active page border
+GREEN_DARK = "#228B22"
+RED_DARK = "#B22222"
 
 # === PAGE CONFIG ===
 st.set_page_config(page_title="Standings", layout="wide")
