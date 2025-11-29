@@ -140,7 +140,7 @@ for col in display_columns:
     header_label = header_map.get(col, col)
 
     th_style = (
-        f"padding:8px; border-bottom:1px solid #444; border-left:none; border-right:none; "
+        f"padding:4px; border-bottom:1px solid #444; border-left:none; border-right:none; "
         f"font-family: Oswald, sans-serif; font-weight: 175; "
         f"background-color:{ROW_ALT};"
     )
@@ -169,7 +169,7 @@ for i, (_, row) in enumerate(agg_df.iterrows()):
                 f"<span style='color:{ESPN_BLUE}; font-weight:600; '>{row['Abbrev']}</span><br>"
                 f"<span style='color:{LIGHT_GREY}; font-size:0.9em;'>{row['Owner']}</span>"
             )
-            table_html += f"<td style='padding:8px; {style}'>{cell_html}</td>"
+            table_html += f"<td style='padding:4px; {style}'>{cell_html}</td>"
 
         elif col == "Rank":
             style += f" color:{LIGHT_GREY};"
