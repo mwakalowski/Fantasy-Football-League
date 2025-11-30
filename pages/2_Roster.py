@@ -482,17 +482,24 @@ for i, (_, row) in enumerate(display_df.iterrows()):
             cell_value = row[col]
         
             # --- SPECIAL COLOR LOGIC FOR "Difference" COLUMN ---
-            if col == "Difference" and isinstance(cell_value, numbers.Number):
-                if cell_value > 0:
-                    color = GREEN_DARK
-                elif cell_value < 0:
-                    color = RED_DARK
+            if col == "Difference":
+                if isinstance(cell_value, numbers.Number):
+                    # Round to 1 decimal place
+                    cell_value = round(cell_value, 1)
+        
+                    if cell_value > 0:
+                        color = GREEN_DARK
+                    elif cell_value < 0:
+                        color = RED_DARK
+                    else:
+                        color = LIGHT_GREY
                 else:
-                    color = LIGHT_GREY
+                    color = LIGHT_GREY  # fallback if not numeric
             else:
-                color = LIGHT_GREY  # default for other columns
+                color = LIGHT_GREY  # default for all other numeric columns
         
             table_html += f"<td style='padding:6px; color:{color}; {style}'>{cell_value}</td>"
+
 
 
     table_html += "</tr>"
