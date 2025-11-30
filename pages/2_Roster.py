@@ -173,8 +173,15 @@ team_df["Slot_sort"] = team_df["Slot"].map(slot_order)
 # Sort by that column, then drop it
 team_df = team_df.sort_values(by="Slot_sort", kind="stable").drop(columns="Slot_sort")
 
-# Drop duplciates
+# Drop duplicates
 team_df = team_df.drop_duplicates(subset=["Player"], keep="first")
+
+# Calculate scoring difference
+team_df["Difference"] = np.where(
+    team_df["Points (Avg)"] != 0,
+    team_df["Points (Avg)"] - team_df["Projected (Avg)"],
+    np.nan
+)
 
 # --- SELECT COLUMNS & FORMAT ---
 display_df = team_df[[
@@ -187,6 +194,7 @@ display_df = team_df[[
     "Points (Total)",
     "Points (Avg)",
     "Projected (Avg)",
+    "Difference",
     "Projected (Total)",
     "Percent Rostered",
     "Percent Started",
@@ -207,7 +215,8 @@ header_map = {
     "Percent Rostered":"%Rost",
     "Percent Started":"%Start",
     "Acquisition Type":"Acq Type",
-    "Pos Rank":"Pos Rk"
+    "Pos Rank":"Pos Rk",
+    "Difference":"+/-"
 }
 
 # Define the columns to display (exclude "Opponent Owner")
@@ -220,6 +229,7 @@ display_columns = [
     "Projected (Total)",
     "Points (Avg)",
     "Projected (Avg)",
+    "Difference",
     "Percent Rostered",
     "Percent Started",
     "Acquisition Type"
