@@ -410,6 +410,23 @@ fig3.add_trace(go.Scatter(
     textfont=dict(color=TEXT_COLOR, size=15)
 ))
 
+# === Regression line ===
+# Fit linear regression: y = m*x + b
+m, b = np.polyfit(x3, y3, 1)
+
+# Generate line endpoints
+x_range = np.linspace(min(x3), max(x3), 100)
+y_pred = m * x_range + b
+
+# Add regression line
+fig3.add_trace(go.Scatter(
+    x=x_range,
+    y=y_pred,
+    mode='lines',
+    line=dict(color=ESPN_BLUE, width=2),
+    name='Regression Line'
+))
+
 # Median lines
 fig3.add_shape(type="line",
     x0=x3_med, x1=x3_med, y0=min(y3), y1=max(y3),
