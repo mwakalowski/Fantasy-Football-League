@@ -424,22 +424,22 @@ quadrant_positions = [
 # Add shaded quadrant rectangles
 fig2.add_shape(
     type="rect",
-    x0=x_med2, y0=y_med2, x1=max(x), y1=max(y),
+    x0=x_med2, y0=y_med2, x1=max(x2), y1=max(y2),
     fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0)
 )
 fig2.add_shape(
     type="rect",
-    x0=x_med2, y0=min(y), x1=max(x), y1=y_med2,
+    x0=x_med2, y0=min(y2), x1=max(x2), y1=y_med2,
     fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0)
 )
 fig2.add_shape(
     type="rect",
-    x0=min(x), y0=min(y), x1=x_med2, y1=y_med2,
+    x0=min(x2), y0=min(y2), x1=x_med2, y1=y_med2,
     fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0)
 )
 fig2.add_shape(
     type="rect",
-    x0=min(x), y0=y_med2, x1=x_med2, y1=max(y),
+    x0=min(x2), y0=y_med2, x1=x_med2, y1=max(y2),
     fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0)
 )
 
