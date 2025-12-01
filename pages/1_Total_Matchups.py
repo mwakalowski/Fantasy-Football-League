@@ -388,8 +388,8 @@ y2 = latest_df['True Win %']
 labels = latest_df['Abbrev']
 
 # Medians
-x_med2 = np.median(x)
-y_med2 = np.median(y)
+x_med2 = np.median(x2)
+y_med2 = np.median(y2)
 
 fig2 = go.Figure()
 
@@ -445,7 +445,7 @@ fig2.add_shape(
 
 # Add quadrant labels (centered)
 for label, x_pos, y_pos, _color in quadrant_positions:
-    fig.add_annotation(
+    fig2.add_annotation(
         x=x_pos,
         y=y_pos,
         text=label,
