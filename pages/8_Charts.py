@@ -652,6 +652,49 @@ fig4.add_trace(go.Scatter(
     textfont=dict(color=TEXT_COLOR, size=15)
 ))
 
+# QUADRANTS
+
+# Define quadrant label positions
+quadrant_positions = [
+    ("High Scoring<br>Outperforming",  (x4_med + max(x4)) / 2, (y4_med + max(y4)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
+    ("Low Scoring<br>Outperforming",   (x4_med + max(x4)) / 2, (y4_med + min(y4)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
+    ("Low Scoring<br>Underperforming",    (x4_med + min(x4)) / 2, (y4_med + min(y4)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
+    ("High Scoring<br>Underperforming",   (x4_med + min(x4)) / 2, (y4_med + max(y4)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
+]
+
+# Add shaded quadrant rectangles
+fig2.add_shape(
+    type="rect",
+    x0=x4_med, y0=y4_med, x1=max(x4), y1=max(y4),
+    fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0)
+)
+fig2.add_shape(
+    type="rect",
+    x0=x4_med, y0=min(y4), x1=max(x4), y1=y4_med,
+    fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0)
+)
+fig2.add_shape(
+    type="rect",
+    x0=min(x4), y0=min(y4), x1=x4_med, y1=y4_med,
+    fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0)
+)
+fig2.add_shape(
+    type="rect",
+    x0=min(x4), y0=y4_med, x1=x4_med, y1=max(y4),
+    fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0)
+)
+
+# Add quadrant labels (centered)
+for label, x_pos, y_pos, _color in quadrant_positions:
+    fig2.add_annotation(
+        x=x_pos,
+        y=y_pos,
+        text=label,
+        showarrow=False,
+        font=dict(size=12, color=TEXT_COLOR),
+        opacity=0.7
+    )
+
 # Median lines
 fig4.add_shape(type="line",
     x0=x4_med, x1=x4_med, y0=min(y4), y1=max(y4),
