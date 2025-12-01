@@ -415,10 +415,10 @@ fig2.add_trace(go.Scatter(
 
 # Define quadrant label positions
 quadrant_positions = [
-    ("High Scoring<br>Unfortunate Matchups",  (x_med2 + max(x)) / 2, (y_med2 + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
-    ("Low Scoring<br>Unfortunate Matchups",   (x_med2 + max(x)) / 2, (y_med2 + min(y)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
-    ("Low Scoring<br>Fortunate Matchups",    (x_med2 + min(x)) / 2, (y_med2 + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
-    ("High Scoring<br>Fortunate Matchups",   (x_med2 + min(x)) / 2, (y_med2 + max(y)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
+    ("High Scoring<br>Unfortunate Matchups",  (x_med2 + max(x2)) / 2, (y_med2 + max(y2)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
+    ("Low Scoring<br>Unfortunate Matchups",   (x_med2 + max(x2)) / 2, (y_med2 + min(y2)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
+    ("Low Scoring<br>Fortunate Matchups",    (x_med2 + min(x2)) / 2, (y_med2 + min(y2)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
+    ("High Scoring<br>Fortunate Matchups",   (x_med2 + min(x2)) / 2, (y_med2 + max(y2)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
 ]
 
 # Add shaded quadrant rectangles
