@@ -407,7 +407,8 @@ fig3.add_trace(go.Scatter(
     text=labels2,
     textposition="top center",
     marker=dict(size=16, color=point_colors2),
-    textfont=dict(color=TEXT_COLOR, size=15)
+    textfont=dict(color=TEXT_COLOR, size=15),
+    showlegend=False
 ))
 
 # === Regression line ===
@@ -422,7 +423,7 @@ fig3.add_trace(go.Scatter(
     y=y_pred,
     mode='lines',
     line=dict(
-        color="#2A2A2A",
+        color="#A9A9A9",
         width=2,
         dash="dash"
     ),
