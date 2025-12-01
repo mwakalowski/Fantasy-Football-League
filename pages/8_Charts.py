@@ -287,8 +287,8 @@ for label, x_pos, y_pos, _color in quadrant_positions:
         y=y_pos,
         text=label,
         showarrow=False,
-        font=dict(size=14, color=TEXT_COLOR),
-        opacity=0.8
+        font=dict(size=12, color=TEXT_COLOR),
+        opacity=0.7
     )
 
 # Median lines
