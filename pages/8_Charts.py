@@ -159,31 +159,31 @@ fig.add_trace(go.Scatter(
 
 # Define quadrant label positions
 quadrant_positions = [
-    ("High Scoring<br>Good Opponents",  (x_med + max(x2)) / 2, (x_med + max(y2)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
-    ("Low Scoring<br>Good Opponents",   (x_med + max(x2)) / 2, (x_med + min(y2)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
-    ("Low Scoring<br>Weak Opponents",    (x_med + min(x2)) / 2, (x_med + min(y2)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
-    ("High Scoring<br>Weak Opponents",   (x_med + min(x2)) / 2, (x_med + max(y2)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
+    ("High Scoring<br>Good Opponents",  (x_med + max(x)) / 2, (x_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
+    ("Low Scoring<br>Good Opponents",   (x_med + max(x)) / 2, (x_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
+    ("Low Scoring<br>Weak Opponents",    (x_med + min(x)) / 2, (x_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
+    ("High Scoring<br>Weak Opponents",   (x_med + min(x)) / 2, (x_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
 ]
 
 # Add shaded quadrant rectangles
 fig.add_shape(
     type="rect",
-    x0=x_med, y0=x_med, x1=max(x2), y1=max(y2),
+    x0=x_med, y0=x_med, x1=max(x), y1=max(y),
     fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0)
 )
 fig.add_shape(
     type="rect",
-    x0=x_med, y0=min(y2), x1=max(x2), y1=x_med,
+    x0=x_med, y0=min(y), x1=max(x), y1=x_med,
     fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0)
 )
 fig.add_shape(
     type="rect",
-    x0=min(x2), y0=min(y2), x1=x_med, y1=x_med,
+    x0=min(x), y0=min(y), x1=x_med, y1=x_med,
     fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0)
 )
 fig.add_shape(
     type="rect",
-    x0=min(x2), y0=x_med, x1=x_med, y1=max(y2),
+    x0=min(x), y0=x_med, x1=x_med, y1=max(y),
     fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0)
 )
 
