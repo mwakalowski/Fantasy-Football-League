@@ -234,6 +234,20 @@ labels2 = agg_df['Abbrev']
 x2_med = np.median(x2)
 y2_med = np.median(y2)
 
+fig2 = go.Figure()
+point_colors2 = [TEAM_COLORS[abbr] for abbr in labels2]
+
+# Scatter points
+fig2.add_trace(go.Scatter(
+    x=x2, 
+    y=y2, 
+    mode="markers+text",
+    text=labels2,
+    textposition="top center",
+    marker=dict(size=16, color=point_colors2),
+    textfont=dict(color=TEXT_COLOR, size=15)
+))
+
 # QUADRANTS
 
 # Define quadrant label positions
@@ -276,20 +290,6 @@ for label, x_pos, y_pos, _color in quadrant_positions:
         font=dict(size=14, color=TEXT_COLOR),
         opacity=0.8
     )
-
-fig2 = go.Figure()
-point_colors2 = [TEAM_COLORS[abbr] for abbr in labels2]
-
-# Scatter points
-fig2.add_trace(go.Scatter(
-    x=x2, 
-    y=y2, 
-    mode="markers+text",
-    text=labels2,
-    textposition="top center",
-    marker=dict(size=16, color=point_colors2),
-    textfont=dict(color=TEXT_COLOR, size=15)
-))
 
 # Median lines
 fig2.add_shape(type="line",
