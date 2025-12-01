@@ -252,7 +252,7 @@ fig2.add_trace(go.Scatter(
 
 # Define quadrant label positions
 quadrant_positions = [
-    ("High PF / High Diff",  (x2_med + max(x2)) / 2, (y2_med + max(y2)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
+    ("High PF<br>High Diff",  (x2_med + max(x2)) / 2, (y2_med + max(y2)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
     ("Low PF / High Diff",   (x2_med + max(x2)) / 2, (y2_med + min(y2)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
     ("Low PF / Low Diff",    (x2_med + min(x2)) / 2, (y2_med + min(y2)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
     ("High PF / Low Diff",   (x2_med + min(x2)) / 2, (y2_med + max(y2)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
