@@ -440,7 +440,7 @@ fig3.add_shape(
              f"L {x} {y}" for x, y in zip(x_range, y_pred)
          ) +                                  # down the regression line
          f" L {max(x_range)} {max(y3)} Z",    # top-right + close
-    fillcolor="rgba(0, 200, 0, 0.025)",
+    fillcolor="rgba(0, 200, 0, 0.03)",
     line=dict(width=0),
     layer="below"
 )
@@ -454,7 +454,7 @@ fig3.add_shape(
              f"L {x} {y}" for x, y in zip(x_range, y_pred)
          ) +                                  # up the regression line
          f" L {max(x_range)} {min(y3)} Z",    # bottom-right + close
-    fillcolor="rgba(255, 0, 0, 0.025)",
+    fillcolor="rgba(255, 0, 0, 0.03)",
     line=dict(width=0),
     layer="below"
 )
