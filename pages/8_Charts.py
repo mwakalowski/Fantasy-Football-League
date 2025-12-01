@@ -262,22 +262,22 @@ quadrant_positions = [
 fig2.add_shape(
     type="rect",
     x0=x2_med, y0=y2_med, x1=max(x2), y1=max(y2),
-    fillcolor="rgba(0, 200, 0, 0.10)", line=dict(width=0)
+    fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0)
 )
 fig2.add_shape(
     type="rect",
     x0=x2_med, y0=min(y2), x1=max(x2), y1=y2_med,
-    fillcolor="rgba(0, 120, 255, 0.10)", line=dict(width=0)
+    fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0)
 )
 fig2.add_shape(
     type="rect",
     x0=min(x2), y0=min(y2), x1=x2_med, y1=y2_med,
-    fillcolor="rgba(255, 0, 0, 0.10)", line=dict(width=0)
+    fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0)
 )
 fig2.add_shape(
     type="rect",
     x0=min(x2), y0=y2_med, x1=x2_med, y1=max(y2),
-    fillcolor="rgba(255, 165, 0, 0.10)", line=dict(width=0)
+    fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0)
 )
 
 # Add quadrant labels (centered)
