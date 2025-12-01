@@ -431,6 +431,34 @@ fig3.add_trace(go.Scatter(
     showlegend=False
 ))
 
+# === Shading Above Regression Line (Green) ===
+fig3.add_shape(
+    type="path",
+    path="M " +
+         f"{min(x_range)} {max(y3)} " +       # top-left corner
+         " ".join(
+             f"L {x} {y}" for x, y in zip(x_range, y_pred)
+         ) +                                  # down the regression line
+         f" L {max(x_range)} {max(y3)} Z",    # top-right + close
+    fillcolor="rgba(0, 200, 0, 0.10)",
+    line=dict(width=0),
+    layer="below"
+)
+
+# === Shading Below Regression Line (Red) ===
+fig3.add_shape(
+    type="path",
+    path="M " +
+         f"{min(x_range)} {min(y3)} " +       # bottom-left corner
+         " ".join(
+             f"L {x} {y}" for x, y in zip(x_range, y_pred)
+         ) +                                  # up the regression line
+         f" L {max(x_range)} {min(y3)} Z",    # bottom-right + close
+    fillcolor="rgba(255, 0, 0, 0.10)",
+    line=dict(width=0),
+    layer="below"
+)
+
 # Median lines
 fig3.add_shape(type="line",
     x0=x3_med, x1=x3_med, y0=min(y3), y1=max(y3),
