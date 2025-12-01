@@ -656,10 +656,10 @@ fig4.add_trace(go.Scatter(
 
 # Define quadrant label positions
 quadrant_positions = [
-    ("High Scoring<br>Outperforming",  (x4_med + max(x4)) / 2, (y4_med + max(y4)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
-    ("Low Scoring<br>Outperforming",   (x4_med + max(x4)) / 2, (y4_med + min(y4)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
-    ("Low Scoring<br>Underperforming",    (x4_med + min(x4)) / 2, (y4_med + min(y4)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
-    ("High Scoring<br>Underperforming",   (x4_med + min(x4)) / 2, (y4_med + max(y4)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
+    ("High Scoring<br>Low Turnover",  (x4_med + max(x4)) / 2, (y4_med + max(y4)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
+    ("Low Scoring<br>Low Turnover",   (x4_med + max(x4)) / 2, (y4_med + min(y4)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
+    ("Low Scoring<br>High Turnover",    (x4_med + min(x4)) / 2, (y4_med + min(y4)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
+    ("High Scoring<br>High Turnover",   (x4_med + min(x4)) / 2, (y4_med + max(y4)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
 ]
 
 # Add shaded quadrant rectangles
