@@ -492,7 +492,7 @@ fig2.update_layout(
     
     # Chart title
     title=dict(
-        text="TRUE WIN % vs. DIFF.",
+        text="TRUE WIN % vs. DIFFERENCE (TRUE - ACTUAL)",
         font=dict(
             family="Oswald, sans-serif",
             size=18,
