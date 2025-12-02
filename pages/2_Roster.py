@@ -511,7 +511,7 @@ table_html += "</tbody></table>"
 #st.markdown(table_html, unsafe_allow_html=True)
 
 # --- Create Player Scatter Plot ---
-x = team_df['Projected (Avg)']
+x = team_df['Difference']
 y = team_df['Points (Avg)']
 labels = team_df['Player']
 
@@ -552,7 +552,7 @@ for _, row in team_df.iterrows():
     fig.add_layout_image(
         dict(
             source=headshot,
-            x=row["Projected (Avg)"],
+            x=row["Difference (Points (Avg) - Projected (Avg))"],
             y=row["Points (Avg)"],
             xref="x",
             yref="y",
@@ -603,8 +603,8 @@ fig.update_layout(
         xanchor='left',
         yanchor='top'
     ),
-    margin=dict(l=60, r=60, t=80, b=60),
-    xaxis=dict(title="Points Projected (Avg)", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False),
+    margin=dict(l=60, r=60, t=60, b=60),
+    xaxis=dict(title="Difference (Points (Avg) - Projected (Avg))", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False),
     yaxis=dict(title="Points (Avg)", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False)
 )
 
