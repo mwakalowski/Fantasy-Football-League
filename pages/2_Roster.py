@@ -566,10 +566,10 @@ for _, row in team_df.iterrows():
 
 # --- QUADRANTS ---
 quadrant_positions = [
-    ("High Scoring<br>Outperforming",  (x_med + max(x)) / 2, (y_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),
-    ("Low Scoring<br>Good Opponents",   (x_med + max(x)) / 2, (y_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"),
-    ("Low Scoring<br>Weak Opponents",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),
-    ("High Scoring<br>Weak Opponents",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")
+    ("",  (x_med + max(x)) / 2, (y_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),
+    ("",   (x_med + max(x)) / 2, (y_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"),
+    ("",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),
+    ("",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")
 ]
 
 # Add shaded quadrant rectangles
