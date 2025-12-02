@@ -568,8 +568,8 @@ for _, row in team_df.iterrows():
 quadrant_positions = [
     ("High Scoring<br>Outperforming",  (x_med + max(x)) / 2, (y_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),
     ("Low Scoring<br>Outperforming",   (x_med + max(x)) / 2, (y_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"),
-    ("High Scoring<br>Underperforming",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),
-    ("Low Scoring<br>Underperforming",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")
+    ("Low Scoring<br>Underperforming",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),
+    ("High Scoring<br>Underperforming",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")
 ]
 
 # Add shaded quadrant rectangles
