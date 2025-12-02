@@ -552,7 +552,7 @@ for _, row in team_df.iterrows():
     fig.add_layout_image(
         dict(
             source=headshot,
-            x=row["Difference (Points (Avg) - Projected (Avg))"],
+            x=row["Difference"],
             y=row["Points (Avg)"],
             xref="x",
             yref="y",
