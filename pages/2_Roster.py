@@ -525,11 +525,8 @@ fig = go.Figure()
 fig.add_trace(go.Scatter(
     x=x, 
     y=y, 
-    mode="markers+text",       # invisible markers + labels
-    text=labels, 
-    textposition="top center",
-    marker=dict(size=1, color="rgba(0,0,0,0)"),  # invisible
-    textfont=dict(color="#FFFFFF", size=15)
+    mode="markers",       # invisible markers + labels
+    marker=dict(size=1, color="rgba(0,0,0,0)")  # invisible
 ))
 
 # --- ADD PLAYER HEADSHOTS AS SCATTER POINT IMAGES ---
