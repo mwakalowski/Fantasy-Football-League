@@ -20,7 +20,7 @@ ESPN_BLUE = "#3F8EF3"
 ESPN_GREEN = "#00FF66" # ESPN green for active page border
 GREEN_DARK = "#228B22"
 RED_DARK = "#B22222"
-YELLOW = "rgba(242, 201, 76, 0.4)"
+YELLOW = "rgba(242, 201, 76, 0.6)"
 
 
 # --- NFL TEAM LOGO MAPPING ---
