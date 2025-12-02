@@ -617,7 +617,7 @@ fig.add_shape(
     type="line",
     x0=0, x1=0,
     y0=min(y), y1=max(y),
-    line=dict(color="#3F8EF3", dash="dot", width=2)
+    line=dict(color=LIGHT_GREY, dash="dot", width=2)
 )
 
 fig.add_annotation(
