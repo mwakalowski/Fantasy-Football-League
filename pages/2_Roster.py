@@ -638,7 +638,7 @@ fig.add_annotation(
 fig.add_shape(type="line",
     x0=min(x), x1=max(x),
     y0=league_avg_points, y1=league_avg_points,
-    line=dict(color="#FFD700", dash="dot", width=2)
+    line=dict(color=ESPN_GREEN, dash="dot", width=2)
 )
 
 fig.add_annotation(
@@ -647,7 +647,7 @@ fig.add_annotation(
     text=f"League Avg: {league_avg_points:.1f}",
     showarrow=False,
     xshift=40,
-    font=dict(color="#FFD700", size=12)
+    font=dict(color=ESPN_GREEN, size=12)
 )
 
 # --- Layout ---
