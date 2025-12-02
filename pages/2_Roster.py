@@ -394,13 +394,14 @@ table_html = f"""
         <tr style='color:white; text-transform:uppercase;'>
 """
 header_tooltips = {
-    "OVR AVG": "Average points scored across the full season, regardless of whether the player was on your roster.",
-    "Avg": "Average points scored while on your roster.",
-    "Avg (Proj)": "Average projected points while on your roster.",
-    "+/-": "Points (Avg) minus Projected (Avg).",
-    "%Rost": "Percent of leagues where this player is rostered.",
-    "%Start": "Percent of leagues where this player is started.",
-    "Acq Type": "How this player was acquired (Draft, Add, Trade, etc.).",
+    "Games": "Number of games played while a member of your roster",
+    "OVR AVG": "Average points scored across the full season, regardless of whether the player was on your roster",
+    "Avg": "Average points scored while on your roster",
+    "Avg (Proj)": "Average projected points while on your roster",
+    "+/-": "Points (Avg) minus Projected (Avg)",
+    "%Rost": "Percent of leagues where this player is rostered",
+    "%Start": "Percent of leagues where this player is started",
+    "Acq Type": "How this player was acquired (Draft, Add, Trade, etc.)",
 }
 
 # Column headers
