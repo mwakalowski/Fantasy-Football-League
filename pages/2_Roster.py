@@ -652,7 +652,7 @@ fig.update_layout(
     paper_bgcolor=CARD_BG,
     font=dict(color=TEXT_COLOR),
     title=dict(
-        text="PLAYER POINTS (AVG) vs. PROJECTED (AVG)",
+        text="PLAYER PERFORMANCE RELATIVE TO LEAGUE AVG SCORING & INDIVIDUAL PROJECTION",
         font=dict(family="Oswald, sans-serif", size=18, color=TEXT_COLOR),
         x=0.05,
         xanchor='left'
@@ -677,7 +677,7 @@ fig.update_layout(
 # === DISPLAY IN TABS ===
 tab1, tab2 = st.tabs([
     "Roster",
-    "Player Points (Avg) vs. Projected (Avg)"
+    "Player Performance"
 ])
 
 # --- Tab1: Roster ---
