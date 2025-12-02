@@ -515,29 +515,27 @@ x = team_df['Difference']
 y = team_df['Points (Avg)']
 labels = team_df['Player']
 
-# Medians
-x_med = np.median(x)
+# Horizontal median (still meaningful)
 y_med = np.median(y)
 
 fig = go.Figure()
 
-# Scatter points with always-visible labels (invisible points for hover)
+# Invisible scatter points for hover text
 fig.add_trace(go.Scatter(
-    x=x, 
-    y=y, 
-    mode="markers",       # invisible markers + labels
+    x=x,
+    y=y,
+    mode="markers",
     marker=dict(size=1, color="rgba(0,0,0,0)"),
-    hovertext=team_df['Player'],  # show player names on hover
-    hoverinfo="text"# invisible
+    hovertext=labels,
+    hoverinfo="text"
 ))
 
-# --- ADD PLAYER HEADSHOTS AS SCATTER POINT IMAGES ---
+# --- ADD PLAYER HEADSHOTS AS IMAGES ---
 for _, row in team_df.iterrows():
     player_id = row.get("Player ID", None)
     pos_value = row.get("Position", None)
     team_abbrev_nfl = row.get("NFL Team", None)
 
-    # Determine the headshot URL
     if pos_value == "D/ST":
         headshot = nfl_logo_map.get(
             team_abbrev_nfl,
@@ -548,7 +546,6 @@ for _, row in team_df.iterrows():
     else:
         headshot = "https://a.espncdn.com/i/headshots/nophoto.png"
 
-    # Add the image to the plot
     fig.add_layout_image(
         dict(
             source=headshot,
@@ -556,7 +553,7 @@ for _, row in team_df.iterrows():
             y=row["Points (Avg)"],
             xref="x",
             yref="y",
-            sizex=1.5,      # adjust to taste
+            sizex=1.5,
             sizey=1.5,
             xanchor="center",
             yanchor="middle",
@@ -564,33 +561,77 @@ for _, row in team_df.iterrows():
         )
     )
 
-# --- QUADRANTS ---
+# --- QUADRANTS CENTERED ON X = 0 ---
 quadrant_positions = [
-    ("High Scoring<br>Outperforming",  (x_med + max(x)) / 2, (y_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),
-    ("Low Scoring<br>Outperforming",   (x_med + max(x)) / 2, (y_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"),
-    ("Low Scoring<br>Underperforming",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),
-    ("High Scoring<br>Underperforming",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")
+    ("High Scoring<br>Outperforming",   (0 + max(x)) / 2, (y_med + max(y)) / 2),
+    ("Low Scoring<br>Outperforming",    (0 + max(x)) / 2, (y_med + min(y)) / 2),
+    ("Low Scoring<br>Underperforming",  (0 + min(x)) / 2, (y_med + min(y)) / 2),
+    ("High Scoring<br>Underperforming", (0 + min(x)) / 2, (y_med + max(y)) / 2)
 ]
 
-# Add shaded quadrant rectangles
-fig.add_shape(type="rect", x0=x_med, y0=y_med, x1=max(x), y1=max(y), fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0))
-fig.add_shape(type="rect", x0=x_med, y0=min(y), x1=max(x), y1=y_med, fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0))
-fig.add_shape(type="rect", x0=min(x), y0=min(y), x1=x_med, y1=y_med, fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0))
-fig.add_shape(type="rect", x0=min(x), y0=y_med, x1=x_med, y1=max(y), fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0))
+# Shaded rectangles (quadrants)
+fig.add_shape(type="rect",
+    x0=0, y0=y_med, x1=max(x), y1=max(y),
+    fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0)
+)
+fig.add_shape(type="rect",
+    x0=0, y0=min(y), x1=max(x), y1=y_med,
+    fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0)
+)
+fig.add_shape(type="rect",
+    x0=min(x), y0=min(y), x1=0, y1=y_med,
+    fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0)
+)
+fig.add_shape(type="rect",
+    x0=min(x), y0=y_med, x1=0, y1=max(y),
+    fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0)
+)
 
-# Add quadrant labels
-for label, x_pos, y_pos, _color in quadrant_positions:
-    fig.add_annotation(x=x_pos, y=y_pos, text=label, showarrow=False, font=dict(size=12, color=TEXT_COLOR), opacity=0.7)
+# Quadrant label annotations
+for text, x_pos, y_pos in quadrant_positions:
+    fig.add_annotation(
+        x=x_pos,
+        y=y_pos,
+        text=text,
+        showarrow=False,
+        font=dict(size=12, color=TEXT_COLOR),
+        opacity=0.7
+    )
 
-# Vertical median line
-fig.add_shape(type="line", x0=x_med, x1=x_med, y0=min(y), y1=max(y), line=dict(color="#3F8EF3", dash="dot", width=2))
-fig.add_annotation(x=x_med, y=max(y), text=f"Median: {x_med:.1f}", showarrow=False, yshift=20, font=dict(color="#3F8EF3", size=12))
+# --- VERTICAL ZERO LINE (Outperformed vs Underperformed) ---
+fig.add_shape(
+    type="line",
+    x0=0, x1=0,
+    y0=min(y), y1=max(y),
+    line=dict(color="#3F8EF3", dash="dot", width=2)
+)
 
-# Horizontal median line
-fig.add_shape(type="line", x0=min(x), x1=max(x), y0=y_med, y1=y_med, line=dict(color="#3F8EF3", dash="dot", width=2))
-fig.add_annotation(x=max(x), y=y_med, text=f"Median: {y_med:.1f}", showarrow=False, xshift=40, font=dict(color="#3F8EF3", size=12))
+fig.add_annotation(
+    x=0,
+    y=max(y),
+    text="0",
+    showarrow=False,
+    yshift=20,
+    font=dict(color="#3F8EF3", size=12)
+)
 
-# Layout styling
+# --- Horizontal median line ---
+fig.add_shape(type="line",
+    x0=min(x), x1=max(x),
+    y0=y_med, y1=y_med,
+    line=dict(color="#3F8EF3", dash="dot", width=2)
+)
+
+fig.add_annotation(
+    x=max(x),
+    y=y_med,
+    text=f"Median: {y_med:.1f}",
+    showarrow=False,
+    xshift=40,
+    font=dict(color="#3F8EF3", size=12)
+)
+
+# --- Layout ---
 fig.update_layout(
     height=600,
     plot_bgcolor=CARD_BG,
@@ -600,14 +641,24 @@ fig.update_layout(
         text="PLAYER POINTS (AVG) vs. PROJECTED (AVG)",
         font=dict(family="Oswald, sans-serif", size=18, color=TEXT_COLOR),
         x=0.05,
-        xanchor='left',
-        yanchor='top'
+        xanchor='left'
     ),
     margin=dict(l=50, r=50, t=50, b=50),
-    xaxis=dict(title="Difference (Points (Avg) - Projected (Avg))", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False),
-    yaxis=dict(title="Points (Avg)", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False)
+    xaxis=dict(
+        title="Difference (Points (Avg) - Projected (Avg))",
+        tickfont=dict(color=LIGHT_GREY),
+        showgrid=True,
+        gridcolor="#2A2A2A",
+        zeroline=False
+    ),
+    yaxis=dict(
+        title="Points (Avg)",
+        tickfont=dict(color=LIGHT_GREY),
+        showgrid=True,
+        gridcolor="#2A2A2A",
+        zeroline=False
+    )
 )
-
 
 # === DISPLAY IN TABS ===
 tab1, tab2 = st.tabs([
