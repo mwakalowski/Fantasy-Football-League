@@ -623,7 +623,7 @@ fig.add_shape(
 fig.add_annotation(
     x=0,
     y=max(y),
-    text="0",
+    text="",
     showarrow=False,
     yshift=20,
     font=dict(color="#3F8EF3", size=12)
