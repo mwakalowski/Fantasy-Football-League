@@ -373,7 +373,7 @@ top_band_html = (
 )
 
 # === DISPLAY TOP BAND ONCE ===
-st.markdown(top_band_html, unsafe_allow_html=True)
+#st.markdown(top_band_html, unsafe_allow_html=True)
 
 # --- BUILD HTML TABLE ---
 table_html = f"""
@@ -507,7 +507,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
 table_html += "</tbody></table>"
 
 # --- DISPLAY TABLE ---
-st.markdown(table_html, unsafe_allow_html=True)
+#st.markdown(table_html, unsafe_allow_html=True)
 
 # === DISPLAY IN TABS ===
 tab1, tab2 = st.tabs([
