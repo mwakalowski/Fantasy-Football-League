@@ -511,8 +511,8 @@ table_html += "</tbody></table>"
 #st.markdown(table_html, unsafe_allow_html=True)
 
 # --- Create Player Scatter Plot ---
-x = team_df['Points (Avg)']
-y = team_df['Projected (Avg)']
+x = team_df['Projected (Avg)']
+y = team_df['Points (Avg)']
 labels = team_df['Player']
 
 # Medians
