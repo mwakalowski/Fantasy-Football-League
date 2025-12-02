@@ -533,7 +533,7 @@ fig.add_trace(go.Scatter(
     textposition="top center", # label placement
     marker=dict(
         size=16,
-        color=
+        color="blue"
     ),
     textfont=dict(color="#FFFFFF", size=15)
 ))
