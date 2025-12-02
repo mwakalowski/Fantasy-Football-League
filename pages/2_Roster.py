@@ -729,6 +729,11 @@ st.markdown(
             The same goes for <span style='color:{ESPN_BLUE};'>Difference [Points (Avg) - Projected (Avg)]</span> which measure's a player's average scoring ouput
             relative to their average projections.
         </p>
+        <p>
+            If you hover over a player's headshot, you will see their <span style='color:{ESPN_BLUE};'>Points (Avg)</span>, 
+            <span style='color:{ESPN_BLUE};'>Difference</span>, and <span style='color:{ESPN_BLUE};'>Games</span> played 
+            while on your roster.
+        </p>
     </div>
     """,
     unsafe_allow_html=True
