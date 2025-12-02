@@ -633,7 +633,7 @@ fig.add_annotation(
 fig.add_shape(type="line",
     x0=min(x), x1=max(x),
     y0=league_avg_points, y1=league_avg_points,
-    line=dict(color="#FFD700", dash="dash", width=2)
+    line=dict(color="#FFD700", dash="dot", width=2)
 )
 
 fig.add_annotation(
