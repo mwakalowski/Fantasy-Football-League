@@ -289,7 +289,6 @@ left_panel_inner = f"""
 # Ensure numeric & safe ranking
 team_df["Points (Avg)"] = pd.to_numeric(team_df["Points (Avg)"], errors="coerce").round(1)
 team_df["Projected (Avg)"] = pd.to_numeric(team_df["Projected (Avg)"], errors="coerce").round(1)
-team_df["Overall Points (Avg)"] = pd.to_numeric(team_df["Projected (Avg)"], errors="coerce").round(1)
 
 top_performers = team_df.dropna(subset=["Points (Avg)"]).nlargest(2, "Points (Avg)")
 
@@ -526,6 +525,12 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                         color = LIGHT_GREY
                 else:
                     color = LIGHT_GREY  # fallback if not numeric
+            
+            elif col == "Overall Points (Avg)":
+                if isinstance(cell_value, numbers.Number):
+                    cell_value = round(cell_value, 1)
+                color = LIGHT_GREY
+            
             else:
                 color = LIGHT_GREY  # default for all other numeric columns
         
