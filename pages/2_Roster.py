@@ -668,7 +668,7 @@ fig.update_layout(
     ),
     margin=dict(l=50, r=50, t=60, b=50),
     xaxis=dict(
-        title="Difference (Points (Avg) - Projected (Avg))",
+        title="Difference [Points (Avg) - Projected (Avg)]",
         tickfont=dict(color=LIGHT_GREY),
         showgrid=True,
         gridcolor="#2A2A2A",
@@ -726,7 +726,7 @@ st.markdown(
             average scoring output during those weeks.
         </p>
         <p>
-            The same goes for <span style='color:{ESPN_BLUE};'>Difference (Points (Avg) - Projected (Avg))</span> which measure's a player's average scoring ouput
+            The same goes for <span style='color:{ESPN_BLUE};'>Difference [Points (Avg) - Projected (Avg)]</span> which measure's a player's average scoring ouput
             relative to their average projections.
         </p>
     </div>
