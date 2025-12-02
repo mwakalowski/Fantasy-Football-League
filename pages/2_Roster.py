@@ -416,9 +416,9 @@ for col in display_columns:
         # Left-align Player header
         header_label = header_map.get(col, col)
         table_html += (
-            f"<th style='padding:4px; border-bottom:1px solid #444; border-left: none; border-right: none;"
-            f"font-family: Oswald, sans-serif; font-weight:175; text-align:left;"
-            f"background-color:{ROW_ALT};'>{header_label}</th>"
+            f"<th{tooltip_attr} style='padding:4px; border-bottom:1px solid #444; border-left:none; border-right:none;"
+            f"text-align:left; font-family:Oswald, sans-serif; font-weight:175; background-color:{ROW_ALT};'>"
+            f"{header_label}</th>"
         )
 
     else:
