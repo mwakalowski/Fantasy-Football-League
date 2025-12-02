@@ -603,7 +603,7 @@ fig.update_layout(
         xanchor='left',
         yanchor='top'
     ),
-    margin=dict(l=60, r=60, t=60, b=60),
+    margin=dict(l=50, r=50, t=50, b=50),
     xaxis=dict(title="Difference (Points (Avg) - Projected (Avg))", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False),
     yaxis=dict(title="Points (Avg)", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False)
 )
