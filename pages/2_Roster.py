@@ -659,7 +659,7 @@ fig.update_layout(
     font=dict(color=TEXT_COLOR),
     title=dict(
         text="Player Performannce Relative to League Avg Scoring and Individual Projections",
-        font=dict(family="Oswald, sans-serif", size=18, color=TEXT_COLOR),
+        font=dict(size=16, color=TEXT_COLOR),
         x=0.05,
         xanchor='left'
     ),
