@@ -718,12 +718,16 @@ st.markdown(
     f"""
     <div style='text-align:left; color:{LIGHT_GREY}; font-size:15px; margin-top:10px;'>
         <p>
-            The <strong><span style='color:{TEXT_COLOR};'>TOTAL MATCHUPS</span></strong> standings 
-            reflect the hypothetical league in which each team plays all teams every week.
+            The <strong><span style='color:{TEXT_COLOR};'>Player Performance</span></strong> scatter plot 
+            represents how a player has performed during their active weeks on your roster.
         </p>
         <p>
-            This provides us <span style='color:{ESPN_GREEN};'>an accurate representation of each team's weekly performance independent of 
-            schedule luck</span> and can be measured by <strong><span style='color:{ESPN_GREEN};'>TRUE WIN %</span></strong>.
+            <span style='color:{ESPN_BLUE};'>Points (Avg)</span> is calculated exclusively on the weeks in which a player is on your roster and reflects their
+            average scoring output during those weeks.
+        </p>
+        <p>
+            The same goes for <span style='color:{ESPN_BLUE};'>Difference (Points (Avg) - Projected (Avg)) which measure's a player's average scoring ouput
+            relative to their average projections.
         </p>
         <p>
             <strong><span style='color:{ESPN_GREEN};'>TRUE WIN %</span></strong> 
