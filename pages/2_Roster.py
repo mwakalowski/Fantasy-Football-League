@@ -133,6 +133,9 @@ season = st.session_state.get("season", 2024)
 # === LOAD DATA ===
 df = load_and_filter_csv("roster.csv", season)
 
+# --- Calculate League Avg Points ---
+league_avg_points = df.loc[df["Points (Avg)"] > 0, "Points (Avg)"].mean()
+
 # --- FILTER: TEAM ABBREV (in sidebar, matching season filter style) ---
 with st.sidebar:
     selected_team = st.selectbox(
@@ -598,7 +601,7 @@ for text, x_pos, y_pos in quadrant_positions:
         opacity=0.7
     )
 
-# --- VERTICAL ZERO LINE (Outperformed vs Underperformed) ---
+# --- VERTICAL ZERO LINE ---
 fig.add_shape(
     type="line",
     x0=0, x1=0,
@@ -615,7 +618,7 @@ fig.add_annotation(
     font=dict(color="#3F8EF3", size=12)
 )
 
-# --- Horizontal median line ---
+# --- HORIZONTAL MEDIAN LINE ---
 fig.add_shape(type="line",
     x0=min(x), x1=max(x),
     y0=y_med, y1=y_med,
@@ -629,6 +632,22 @@ fig.add_annotation(
     showarrow=False,
     xshift=40,
     font=dict(color="#3F8EF3", size=12)
+)
+
+# --- NEW: LEAGUE AVERAGE LINE (POINTS AVG) ---
+fig.add_shape(type="line",
+    x0=min(x), x1=max(x),
+    y0=league_avg_points, y1=league_avg_points,
+    line=dict(color="#FFD700", dash="dash", width=2)  # gold dashed line
+)
+
+fig.add_annotation(
+    x=max(x),
+    y=league_avg_points,
+    text=f"League Avg: {league_avg_points:.1f}",
+    showarrow=False,
+    xshift=40,
+    font=dict(color="#FFD700", size=12)
 )
 
 # --- Layout ---
