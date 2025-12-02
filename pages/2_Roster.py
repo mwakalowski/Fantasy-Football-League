@@ -509,10 +509,153 @@ table_html += "</tbody></table>"
 # --- DISPLAY TABLE ---
 #st.markdown(table_html, unsafe_allow_html=True)
 
+# --- Create Player Scatter Plot ---
+x = team_df['Points (Avg)']
+y = team_df['Projected (Avg)']
+labels = agg_df['Player']
+
+# Medians
+x_med = np.median(x)
+y_med = np.median(y)
+
+fig = go.Figure()
+
+# Map team colors
+
+#point_colors = [TEAM_COLORS[abbr] for abbr in labels]
+
+# Scatter points with always-visible labels
+fig.add_trace(go.Scatter(
+    x=x, 
+    y=y, 
+    mode="markers+text",       # show both dots + text
+    text=labels, 
+    textposition="top center", # label placement
+    marker=dict(
+        size=16,
+        color=
+    ),
+    textfont=dict(color="#FFFFFF", size=15)
+))
+
+# QUADRANTS
+
+# Define quadrant label positions
+quadrant_positions = [
+    ("High Scoring<br>Outperforming",  (x_med + max(x)) / 2, (y_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
+    ("Low Scoring<br>Good Opponents",   (x_med + max(x)) / 2, (y_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
+    ("Low Scoring<br>Weak Opponents",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
+    ("High Scoring<br>Weak Opponents",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
+]
+
+# Add shaded quadrant rectangles
+fig.add_shape(
+    type="rect",
+    x0=x_med, y0=y_med, x1=max(x), y1=max(y),
+    fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0)
+)
+fig.add_shape(
+    type="rect",
+    x0=x_med, y0=min(y), x1=max(x), y1=y_med,
+    fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0)
+)
+fig.add_shape(
+    type="rect",
+    x0=min(x), y0=min(y), x1=x_med, y1=y_med,
+    fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0)
+)
+fig.add_shape(
+    type="rect",
+    x0=min(x), y0=y_med, x1=x_med, y1=max(y),
+    fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0)
+)
+
+# Add quadrant labels (centered)
+for label, x_pos, y_pos, _color in quadrant_positions:
+    fig.add_annotation(
+        x=x_pos,
+        y=y_pos,
+        text=label,
+        showarrow=False,
+        font=dict(size=12, color=TEXT_COLOR),
+        opacity=0.7
+    )
+
+# Vertical median line (Points Against)
+fig.add_shape(type="line",
+    x0=x_med, x1=x_med, y0=min(y), y1=max(y),
+    line=dict(color="#3F8EF3", dash="dot", width=2)
+)
+fig.add_annotation(
+    x=x_med, y=max(y),
+    text=f"Median: {x_med:.1f}",
+    showarrow=False,
+    yshift=20,
+    font=dict(color="#3F8EF3", size=12)
+)
+
+# Horizontal median line (Team Score)
+fig.add_shape(type="line",
+    x0=min(x), x1=max(x), y0=y_med, y1=y_med,
+    line=dict(color="#3F8EF3", dash="dot", width=2)
+)
+fig.add_annotation(
+    x=max(x), y=y_med,
+    text=f"Median: {y_med:.1f}",
+    showarrow=False,
+    xshift=40,
+    font=dict(color="#3F8EF3", size=12)
+)
+
+# Layout styling
+fig.update_layout(
+    height=600,
+    # Background colors
+    plot_bgcolor=CARD_BG,
+    paper_bgcolor=CARD_BG,
+    
+    # Font for axes and other text
+    font=dict(color=TEXT_COLOR),
+    
+    # Chart title
+    title=dict(
+        text="PLAYER POINTS (AVG) vs. PROJECTED (AVG)",
+        font=dict(
+            family="Oswald, sans-serif",
+            size=18,
+            color=TEXT_COLOR
+        ),
+        x=0.05,          # center horizontally
+        xanchor='left',
+        yanchor='top'
+    ),
+    
+    # Margins around the chart
+    margin=dict(l=60, r=60, t=80, b=60),
+    
+    # X-axis configuration
+    xaxis=dict(
+        title="Points Projected (Avg)",
+        tickfont=dict(color=LIGHT_GREY),
+        showgrid=True,
+        gridcolor="#2A2A2A",   # subtle gray gridlines
+        zeroline=False
+    ),
+    
+    # Y-axis configuration
+    yaxis=dict(
+        title="Points (Avg)",
+        tickfont=dict(color=LIGHT_GREY),
+        showgrid=True,
+        gridcolor="#2A2A2A",   # subtle gray gridlines
+        zeroline=False
+    )
+)
+
 # === DISPLAY IN TABS ===
 tab1, tab2 = st.tabs([
     "Roster",
-    "Player Points vs. Projected"
+    "Player Points (Avg) vs. Projected (Avg)"
 ])
 
 # --- Tab1: Roster ---
