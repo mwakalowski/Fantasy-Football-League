@@ -508,3 +508,33 @@ table_html += "</tbody></table>"
 
 # --- DISPLAY TABLE ---
 st.markdown(table_html, unsafe_allow_html=True)
+
+# === DISPLAY IN TABS ===
+tab1, tab2 = st.tabs([
+    "Roster",
+    "Player Points vs. Projected"
+])
+
+# --- Tab1: Roster ---
+with tab1:
+    st.markdown(top_band_html, unsafe_allow_html=True)
+    st.markdown(table_html, unsafe_allow_html=True)
+
+# --- Tab2: Player Points vs. Projected ---
+with tab2:
+    st.plotly_chart(fig, use_container_width=True)
+
+st.markdown(f"""
+<style>
+/* Default tab label text */
+.stTabs [role="tab"] p {{
+    color: {LIGHT_GREY};
+}}
+
+/* Active tab label text */
+.stTabs [role="tab"][aria-selected="true"] p {{
+    color: {TEXT_COLOR} !important;  /* your highlight color */
+    font-weight: 600 !important;
+}}
+</style>
+""", unsafe_allow_html=True)
