@@ -534,6 +534,11 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 if isinstance(cell_value, numbers.Number):
                     cell_value = round(cell_value, 1)
                 color = LIGHT_GREY
+
+            elif col == "Games":
+                if isinstance(cell_value, numbers.Number):
+                    cell_value = round(cell_value, 0)
+                color = LIGHT_GREY
             
             else:
                 color = LIGHT_GREY  # default for all other numeric columns
