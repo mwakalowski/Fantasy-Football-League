@@ -537,7 +537,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
 
             elif col == "Games":
                 if isinstance(cell_value, numbers.Number):
-                    cell_value = round(cell_value, 0)
+                    cell_value = int(round(cell_value))
                 color = LIGHT_GREY
             
             else:
