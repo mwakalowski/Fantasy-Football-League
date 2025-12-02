@@ -284,8 +284,8 @@ left_panel_inner = f"""
 
 # === TOP PERFORMERS (by Points Avg) ===
 # Ensure numeric & safe ranking
-team_df["Points (Avg)"] = pd.to_numeric(team_df["Points (Avg)"], errors="coerce")
-team_df["Projected (Avg)"] = pd.to_numeric(team_df["Projected (Avg)"], errors="coerce")
+team_df["Points (Avg)"] = pd.to_numeric(team_df["Points (Avg)"], errors="coerce").round(1)
+team_df["Projected (Avg)"] = pd.to_numeric(team_df["Projected (Avg)"], errors="coerce").round(1)
 
 top_performers = team_df.dropna(subset=["Points (Avg)"]).nlargest(2, "Points (Avg)")
 
