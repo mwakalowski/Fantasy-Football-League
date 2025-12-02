@@ -517,6 +517,11 @@ table_html += "</tbody></table>"
 x = team_df['Difference']
 y = team_df['Points (Avg)']
 labels = team_df['Player']
+hover_texts = [
+    f"{row['Player']}<br>Points (Avg): {row['Points (Avg)']:.1f}<br>Difference: {row['Difference']:.1f}"
+    for _, row in team_df.iterrows()
+]
+
 
 fig = go.Figure()
 
@@ -526,7 +531,7 @@ fig.add_trace(go.Scatter(
     y=y,
     mode="markers",
     marker=dict(size=1, color="rgba(0,0,0,0)"),
-    hovertext=labels,
+    hovertext=hover_texts,
     hoverinfo="text"
 ))
 
