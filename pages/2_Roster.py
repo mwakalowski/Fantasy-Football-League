@@ -390,9 +390,21 @@ table_html = f"""
         <tr style='color:white; text-transform:uppercase;'>
 """
 
+header_tooltips = {
+    "Overall Points (Avg)": "Average points scored across the full season independent of roster status.",
+    "Points (Avg)": "Average points scored while on your roster.",
+    "Projected (Avg)": "Average points projected while on your roster.",
+    "Difference": "Points (Avg) minus Projected (Avg).",
+    "Games": "Total active weeks on your roster."
+}
+
 # Column headers
 for col in display_columns:
 
+    # Tooltip text (or empty)
+    tooltip = header_tooltips.get(col, "")
+    tooltip_attr = f" title='{tooltip}'" if tooltip else ""
+    
     if col == "Headshot":
         # Empty header for logo column
         table_html += (
