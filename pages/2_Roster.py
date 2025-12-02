@@ -560,8 +560,8 @@ for _, row in team_df.iterrows():
             y=row["Points (Avg)"],
             xref="x",
             yref="y",
-            sizex=1.5,
-            sizey=1.5,
+            sizex=1.75,
+            sizey=1.75,
             xanchor="center",
             yanchor="middle",
             layer="above"
