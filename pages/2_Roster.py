@@ -518,12 +518,9 @@ x = team_df['Difference']
 y = team_df['Points (Avg)']
 labels = team_df['Player']
 
-# Horizontal median (still meaningful)
-y_med = np.median(y)
-
 fig = go.Figure()
 
-# Invisible scatter points for hover text
+# Invisible scatter markers (hover only)
 fig.add_trace(go.Scatter(
     x=x,
     y=y,
@@ -539,6 +536,7 @@ for _, row in team_df.iterrows():
     pos_value = row.get("Position", None)
     team_abbrev_nfl = row.get("NFL Team", None)
 
+    # Determine headshot
     if pos_value == "D/ST":
         headshot = nfl_logo_map.get(
             team_abbrev_nfl,
@@ -564,33 +562,42 @@ for _, row in team_df.iterrows():
         )
     )
 
-# --- QUADRANTS CENTERED ON X = 0 ---
-quadrant_positions = [
-    ("High Scoring<br>Outperforming",   (0 + max(x)) / 2, (y_med + max(y)) / 2),
-    ("Low Scoring<br>Outperforming",    (0 + max(x)) / 2, (y_med + min(y)) / 2),
-    ("Low Scoring<br>Underperforming",  (0 + min(x)) / 2, (y_med + min(y)) / 2),
-    ("High Scoring<br>Underperforming", (0 + min(x)) / 2, (y_med + max(y)) / 2)
-]
+# ======================================================
+# NEW: QUADRANT SHADING USING LEAGUE AVG INSTEAD OF MEDIAN
+# ======================================================
 
-# Shaded rectangles (quadrants)
+# Top-right (Outperforming + High Scoring)
 fig.add_shape(type="rect",
-    x0=0, y0=y_med, x1=max(x), y1=max(y),
+    x0=0, y0=league_avg_points, x1=max(x), y1=max(y),
     fillcolor="rgba(0, 200, 0, 0.05)", line=dict(width=0)
 )
+
+# Bottom-right (Outperforming + Low Scoring)
 fig.add_shape(type="rect",
-    x0=0, y0=min(y), x1=max(x), y1=y_med,
+    x0=0, y0=min(y), x1=max(x), y1=league_avg_points,
     fillcolor="rgba(0, 120, 255, 0.05)", line=dict(width=0)
 )
+
+# Bottom-left (Underperforming + Low Scoring)
 fig.add_shape(type="rect",
-    x0=min(x), y0=min(y), x1=0, y1=y_med,
+    x0=min(x), y0=min(y), x1=0, y1=league_avg_points,
     fillcolor="rgba(255, 0, 0, 0.05)", line=dict(width=0)
 )
+
+# Top-left (Underperforming + High Scoring)
 fig.add_shape(type="rect",
-    x0=min(x), y0=y_med, x1=0, y1=max(y),
+    x0=min(x), y0=league_avg_points, x1=0, y1=max(y),
     fillcolor="rgba(255, 165, 0, 0.05)", line=dict(width=0)
 )
 
-# Quadrant label annotations
+# Quadrant label positions based on *league average*
+quadrant_positions = [
+    ("High Scoring<br>Outperforming",   (0 + max(x)) / 2, (league_avg_points + max(y)) / 2),
+    ("Low Scoring<br>Outperforming",    (0 + max(x)) / 2, (league_avg_points + min(y)) / 2),
+    ("Low Scoring<br>Underperforming",  (0 + min(x)) / 2, (league_avg_points + min(y)) / 2),
+    ("High Scoring<br>Underperforming", (0 + min(x)) / 2, (league_avg_points + max(y)) / 2)
+]
+
 for text, x_pos, y_pos in quadrant_positions:
     fig.add_annotation(
         x=x_pos,
@@ -601,7 +608,11 @@ for text, x_pos, y_pos in quadrant_positions:
         opacity=0.7
     )
 
-# --- VERTICAL ZERO LINE ---
+# ======================================================
+# EXISTING LINES — still needed (Zero Line + League Average)
+# ======================================================
+
+# Vertical zero line (Outperformed vs Underperformed)
 fig.add_shape(
     type="line",
     x0=0, x1=0,
@@ -618,27 +629,11 @@ fig.add_annotation(
     font=dict(color="#3F8EF3", size=12)
 )
 
-# --- HORIZONTAL MEDIAN LINE ---
-fig.add_shape(type="line",
-    x0=min(x), x1=max(x),
-    y0=y_med, y1=y_med,
-    line=dict(color="#3F8EF3", dash="dot", width=2)
-)
-
-fig.add_annotation(
-    x=max(x),
-    y=y_med,
-    text=f"Median: {y_med:.1f}",
-    showarrow=False,
-    xshift=40,
-    font=dict(color="#3F8EF3", size=12)
-)
-
-# --- NEW: LEAGUE AVERAGE LINE (POINTS AVG) ---
+# --- LEAGUE AVERAGE HORIZONTAL LINE ---
 fig.add_shape(type="line",
     x0=min(x), x1=max(x),
     y0=league_avg_points, y1=league_avg_points,
-    line=dict(color="#FFD700", dash="dash", width=2)  # gold dashed line
+    line=dict(color="#FFD700", dash="dash", width=2)
 )
 
 fig.add_annotation(
