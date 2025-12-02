@@ -20,6 +20,7 @@ ESPN_BLUE = "#3F8EF3"
 ESPN_GREEN = "#00FF66" # ESPN green for active page border
 GREEN_DARK = "#228B22"
 RED_DARK = "#B22222"
+YELLOW = "#F2C94C"
 
 # --- NFL TEAM LOGO MAPPING ---
 nfl_logo_map = {
@@ -418,7 +419,7 @@ table_html += "</tr></thead><tbody>"
 acq_colors = {
     "DRAFT": ESPN_BLUE,
     "ADD": ESPN_GREEN,
-    "TRADE": "#F2C94C"  # yellow that complements ESPN blue/green
+    "TRADE": YELLOW  # yellow that complements ESPN blue/green
 }
 
 # Table rows
@@ -638,7 +639,7 @@ fig.add_annotation(
 fig.add_shape(type="line",
     x0=min(x), x1=max(x),
     y0=league_avg_points, y1=league_avg_points,
-    line=dict(color=ESPN_GREEN, dash="dot", width=2)
+    line=dict(color=YELLOW, dash="dot", width=2)
 )
 
 fig.add_annotation(
@@ -647,7 +648,7 @@ fig.add_annotation(
     text=f"League Avg: {league_avg_points:.1f}",
     showarrow=False,
     xshift=40,
-    font=dict(color=ESPN_GREEN, size=12)
+    font=dict(color=YELLOW, size=12)
 )
 
 # --- Layout ---
