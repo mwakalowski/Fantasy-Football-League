@@ -389,45 +389,55 @@ table_html = f"""
     <thead>
         <tr style='color:white; text-transform:uppercase;'>
 """
-
 header_tooltips = {
-    "Overall Points (Avg)": "Average points scored across the full season independent of roster status.",
-    "Points (Avg)": "Average points scored while on your roster.",
-    "Projected (Avg)": "Average points projected while on your roster.",
-    "Difference": "Points (Avg) minus Projected (Avg).",
-    "Games": "Total active weeks on your roster."
+    "OVR AVG": "Average points scored across the full season, regardless of whether the player was on your roster.",
+    "Avg": "Average points scored while on your roster.",
+    "Avg (Proj)": "Average projected points while on your roster.",
+    "+/-": "Points (Avg) minus Projected (Avg).",
+    "%Rost": "Percent of leagues where this player is rostered.",
+    "%Start": "Percent of leagues where this player is started.",
+    "Acq Type": "How this player was acquired (Draft, Add, Trade, etc.).",
 }
 
 # Column headers
 for col in display_columns:
+    # Short label shown in the header
+    header_label = header_map.get(col, col)
 
-    # Tooltip text (or empty)
-    tooltip = header_tooltips.get(col, "")
+    # Tooltip text (based on the visible label)
+    tooltip = header_tooltips.get(header_label, "")
     tooltip_attr = f" title='{tooltip}'" if tooltip else ""
-    
+
+    # Base <th> styles
+    base_th_style = (
+        "padding:4px; border-bottom:1px solid #444; border-left:none; border-right:none;"
+        f"font-family:Oswald, sans-serif; font-weight:175; background-color:{ROW_ALT};"
+    )
+    # If tooltip exists, show help cursor
+    if tooltip:
+        base_th_style += " cursor: help;"
+
     if col == "Headshot":
-        # Empty header for logo column
+        # Empty header for logo column (no tooltip)
         table_html += (
-            f"<th style='padding:4px; border-bottom:1px solid #444; border-left: none; border-right: none;"
-            f"background-color:{ROW_ALT}; font-family: Oswald, sans-serif; font-weight:175; text-align:left;'></th>"
+            f"<th style='padding:4px; border-bottom:1px solid #444; border-left:none; border-right:none;"
+            f"background-color:{ROW_ALT}; font-family:Oswald, sans-serif; font-weight:175; text-align:left;'></th>"
         )
 
     elif col == "Player":
         # Left-align Player header
-        header_label = header_map.get(col, col)
         table_html += (
-            f"<th{tooltip_attr} style='padding:4px; border-bottom:1px solid #444; border-left:none; border-right:none;"
-            f"text-align:left; font-family:Oswald, sans-serif; font-weight:175; background-color:{ROW_ALT};'>"
+            f"<th{tooltip_attr} style='{base_th_style} text-align:left;'>"
             f"{header_label}</th>"
         )
 
     else:
-        header_label = header_map.get(col, col)
+        # Centered headers
         table_html += (
-            f"<th{tooltip_attr} style='padding:4px; border-bottom:1px solid #444; border-left: none; border-right: none;"
-            f"font-family: Oswald, sans-serif; font-weight:175; background-color:{ROW_ALT};'>"
+            f"<th{tooltip_attr} style='{base_th_style}'>"
             f"{header_label}</th>"
         )
+
 table_html += "</tr></thead><tbody>"
 
 # --- Define Acquisition Type colors ---
