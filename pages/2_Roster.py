@@ -697,6 +697,31 @@ with tab1:
 # --- Tab2: Player Points vs. Projected ---
 with tab2:
     st.plotly_chart(fig, use_container_width=True)
+    # --- FOOTNOTES ---
+    st.markdown(
+        f"""
+        <div style='text-align:left; color:{LIGHT_GREY}; font-size:15px; margin-top:10px;'>
+            <p>
+                The <strong><span style='color:{TEXT_COLOR};'>Player Performance</span></strong> scatter plot 
+                represents how a player has performed during their active weeks on your roster.
+            </p>
+            <p>
+                <span style='color:{ESPN_BLUE};'>Points (Avg)</span> is calculated exclusively on the weeks in which a player is on your roster and reflects their
+                average scoring output during those weeks.
+            </p>
+            <p>
+                The same goes for <span style='color:{ESPN_BLUE};'>Difference [Points (Avg) - Projected (Avg)]</span> which measure's a player's average scoring ouput
+                relative to their average projections.
+            </p>
+            <p>
+                If you hover over a player's headshot, you will see their <span style='color:{ESPN_BLUE};'>Points (Avg)</span>, 
+                <span style='color:{ESPN_BLUE};'>Difference</span>, and <span style='color:{ESPN_BLUE};'>Games</span> played 
+                while on your roster.
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
 
 st.markdown(f"""
 <style>
@@ -712,29 +737,3 @@ st.markdown(f"""
 }}
 </style>
 """, unsafe_allow_html=True)
-
-# --- FOOTNOTES ---
-st.markdown(
-    f"""
-    <div style='text-align:left; color:{LIGHT_GREY}; font-size:15px; margin-top:10px;'>
-        <p>
-            The <strong><span style='color:{TEXT_COLOR};'>Player Performance</span></strong> scatter plot 
-            represents how a player has performed during their active weeks on your roster.
-        </p>
-        <p>
-            <span style='color:{ESPN_BLUE};'>Points (Avg)</span> is calculated exclusively on the weeks in which a player is on your roster and reflects their
-            average scoring output during those weeks.
-        </p>
-        <p>
-            The same goes for <span style='color:{ESPN_BLUE};'>Difference [Points (Avg) - Projected (Avg)]</span> which measure's a player's average scoring ouput
-            relative to their average projections.
-        </p>
-        <p>
-            If you hover over a player's headshot, you will see their <span style='color:{ESPN_BLUE};'>Points (Avg)</span>, 
-            <span style='color:{ESPN_BLUE};'>Difference</span>, and <span style='color:{ESPN_BLUE};'>Games</span> played 
-            while on your roster.
-        </p>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
