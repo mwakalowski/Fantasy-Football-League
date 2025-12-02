@@ -566,10 +566,10 @@ for _, row in team_df.iterrows():
 
 # --- QUADRANTS ---
 quadrant_positions = [
-    ("",  (x_med + max(x)) / 2, (y_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),
-    ("",   (x_med + max(x)) / 2, (y_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"),
-    ("",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),
-    ("",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")
+    ("High Scoring<br>Outperforming",  (x_med + max(x)) / 2, (y_med + max(y)) / 2, "rgba(0, 200, 0, 0.12)"),
+    ("Low Scoring<br>Outperforming",   (x_med + max(x)) / 2, (y_med + min(y)) / 2, "rgba(0, 120, 255, 0.12)"),
+    ("High Scoring<br>Underperforming",    (x_med + min(x)) / 2, (y_med + min(y)) / 2, "rgba(255, 0, 0, 0.12)"),
+    ("Low Scoring<br>Underperforming",   (x_med + min(x)) / 2, (y_med + max(y)) / 2, "rgba(255, 165, 0, 0.12)")
 ]
 
 # Add shaded quadrant rectangles
@@ -604,8 +604,7 @@ fig.update_layout(
         yanchor='top'
     ),
     margin=dict(l=50, r=50, t=50, b=50),
-    xaxis=dict(title="Difference (Points (Avg) - Projected (Avg))", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False, scaleanchor="y",
-        scaleratio=1),
+    xaxis=dict(title="Difference (Points (Avg) - Projected (Avg))", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False),
     yaxis=dict(title="Points (Avg)", tickfont=dict(color=LIGHT_GREY), showgrid=True, gridcolor="#2A2A2A", zeroline=False)
 )
 
