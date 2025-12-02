@@ -512,7 +512,7 @@ table_html += "</tbody></table>"
 # --- Create Player Scatter Plot ---
 x = team_df['Points (Avg)']
 y = team_df['Projected (Avg)']
-labels = agg_df['Player']
+labels = team_df['Player']
 
 # Medians
 x_med = np.median(x)
