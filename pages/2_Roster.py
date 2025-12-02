@@ -726,26 +726,8 @@ st.markdown(
             average scoring output during those weeks.
         </p>
         <p>
-            The same goes for <span style='color:{ESPN_BLUE};'>Difference (Points (Avg) - Projected (Avg)) which measure's a player's average scoring ouput
+            The same goes for <span style='color:{ESPN_BLUE};'>Difference (Points (Avg) - Projected (Avg))</span> which measure's a player's average scoring ouput
             relative to their average projections.
-        </p>
-        <p>
-            <strong><span style='color:{ESPN_GREEN};'>TRUE WIN %</span></strong> 
-            is the percentage of all hypothetical matchups that your team has won across all weeks.
-        </p>
-        <p>
-            As a result, each team has 11 weekly matchups.
-        </p>
-        <p>
-            If your team had the highest point total for a given week, then you will have gone 11-0 during that week.
-        </p>
-        <p>
-            If your team instead had the 6th highest point total, then you would have outscored 6 of the 11 opposing teams,
-            and therefore went 6-5 for that week.
-        </p>
-        <p>
-            <strong><span style='color:{ESPN_BLUE};'>ACTUAL WIN %</span></strong> 
-            is the percentage of scheduled weekly matchups that your team actually won over that same duration.
         </p>
     </div>
     """,
