@@ -526,7 +526,9 @@ fig.add_trace(go.Scatter(
     x=x, 
     y=y, 
     mode="markers",       # invisible markers + labels
-    marker=dict(size=1, color="rgba(0,0,0,0)")  # invisible
+    marker=dict(size=1, color="rgba(0,0,0,0)"),
+    hovertext=team_df['Player'],  # show player names on hover
+    hoverinfo="text"# invisible
 ))
 
 # --- ADD PLAYER HEADSHOTS AS SCATTER POINT IMAGES ---
@@ -554,8 +556,8 @@ for _, row in team_df.iterrows():
             y=row["Projected (Avg)"],
             xref="x",
             yref="y",
-            sizex=1.0,      # adjust to taste
-            sizey=1.0,
+            sizex=1.5,      # adjust to taste
+            sizey=1.5,
             xanchor="center",
             yanchor="middle",
             layer="above"
