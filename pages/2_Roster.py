@@ -552,8 +552,8 @@ for _, row in team_df.iterrows():
     fig.add_layout_image(
         dict(
             source=headshot,
-            x=row["Points (Avg)"],
-            y=row["Projected (Avg)"],
+            x=row["Projected (Avg)"],
+            y=row["Points (Avg)"],
             xref="x",
             yref="y",
             sizex=1.5,      # adjust to taste
