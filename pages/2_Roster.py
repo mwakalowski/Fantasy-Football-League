@@ -540,12 +540,12 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 color = LIGHT_GREY
 
             elif col == "Games":
-                if isinstance(cell_value, numbers.Number):
+                if isinstance(cell_value, numbers.Number) and not pd.isna(cell_value):
                     cell_value = int(round(cell_value))
                 color = LIGHT_GREY
 
             elif col == "Starts":
-                if isinstance(cell_value, numbers.Number):
+                if isinstance(cell_value, numbers.Number) and not pd.isna(cell_value):
                     cell_value = int(round(cell_value))
                 color = LIGHT_GREY
             
