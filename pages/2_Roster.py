@@ -707,8 +707,8 @@ fig.update_layout(
     paper_bgcolor=CARD_BG,
     font=dict(color=TEXT_COLOR),
     title=dict(
-        text="Player Performance",
-        font=dict(size=16, color=TEXT_COLOR),
+        text="PLAYER PERFORMANCE",
+        font=dict(family="Oswald, sans-serif", size=18, color=TEXT_COLOR),
         x=0.05,
         xanchor='left'
     ),
