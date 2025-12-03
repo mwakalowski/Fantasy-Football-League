@@ -200,6 +200,7 @@ display_df = team_df[[
     "Position",
     "NFL Team",
     "Games",
+    "Starts",
     "Overall Points (Avg)",
     "Points (Total)",
     "Points (Avg)",
@@ -237,6 +238,7 @@ display_columns = [
     "Player",
     "Pos Rank",
     "Games",
+    "Starts",
     #"Points (Total)",
     #"Projected (Total)",
     "Overall Points (Avg)",
@@ -395,6 +397,7 @@ table_html = f"""
 """
 header_tooltips = {
     "Games": "Number of games played while on your roster",
+    "Starts":"Number of starts made for your team",
     "OVR AVG": "Average points scored across the full season - independent of the player being on your roster",
     "Avg": "Average points scored while on your roster",
     "Avg (Proj)": "Average points projected while on your roster",
@@ -537,6 +540,11 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 color = LIGHT_GREY
 
             elif col == "Games":
+                if isinstance(cell_value, numbers.Number):
+                    cell_value = int(round(cell_value))
+                color = LIGHT_GREY
+
+            elif col == "Starts":
                 if isinstance(cell_value, numbers.Number):
                     cell_value = int(round(cell_value))
                 color = LIGHT_GREY
