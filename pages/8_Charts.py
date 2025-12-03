@@ -248,7 +248,7 @@ fig.update_layout(
     ),
     
     # Margins around the chart
-    margin=dict(l=60, r=60, t=80, b=60),
+    margin=dict(l=50, r=50, t=65, b=50),
     
     # X-axis configuration
     xaxis=dict(
@@ -371,7 +371,7 @@ fig2.update_layout(
         xanchor='left',
         yanchor='top'
     ),
-    margin=dict(l=60, r=60, t=80, b=60),
+    margin=dict(l=50, r=50, t=65, b=50),
     xaxis=dict(
         title="Difference (Points For - Projected)",
         tickfont=dict(color=LIGHT_GREY),
@@ -496,7 +496,7 @@ fig3.update_layout(
         xanchor='left',
         yanchor='top'
     ),
-    margin=dict(l=60, r=60, t=80, b=60),
+    margin=dict(l=50, r=50, t=65, b=50),
     xaxis=dict(
         title="Points Projected",
         tickfont=dict(color=LIGHT_GREY),
@@ -781,7 +781,7 @@ fig4.update_layout(
         xanchor='left',
         yanchor='top'
     ),
-    margin=dict(l=60, r=60, t=80, b=60),
+    margin=dict(l=50, r=50, t=65, b=50),
     xaxis=dict(
         title="Drafted Players on Current Roster",
         tickfont=dict(color=LIGHT_GREY),
