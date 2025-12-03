@@ -272,7 +272,7 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
         
             cell_html = f"{val:.1f}"
 
-        table_html += f"<td style='padding:10px; {style}'>{cell_html}</td>"
+        table_html += f"<td style='padding:2px; {style}'>{cell_html}</td>"
 
     table_html += "</tr>"
 
