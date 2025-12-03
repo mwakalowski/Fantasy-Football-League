@@ -568,7 +568,7 @@ x = team_df['Difference']
 y = team_df['Points (Avg)']
 labels = team_df['Player']
 hover_texts = [
-    f"{row['Player']}<br>Points (Avg): {row['Points (Avg)']:.1f}<br>Difference: {row['Difference']:.1f}<br>Games: {row['Games']:.0f<br>Starts: {row['Starts']:.0f}"
+    f"{row['Player']}<br>Points (Avg): {row['Points (Avg)']:.1f}<br>Difference: {row['Difference']:.1f}<br>Games: {row['Games']:.0f}<br>Starts: {row['Starts']:.0f}"
     for _, row in team_df.iterrows()
 ]
 
