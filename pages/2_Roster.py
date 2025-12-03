@@ -394,7 +394,7 @@ table_html = f"""
         <tr style='color:white; text-transform:uppercase;'>
 """
 header_tooltips = {
-    "Games": "Number of games played while a member of your roster",
+    "Games": "Number of games played while on your roster",
     "OVR AVG": "Average points scored across the full season - independent of the player being on your roster",
     "Avg": "Average points scored while on your roster",
     "Avg (Proj)": "Average points projected while on your roster",
