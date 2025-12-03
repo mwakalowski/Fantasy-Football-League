@@ -649,18 +649,16 @@ st.markdown(
     <div style='text-align:left; color:{LIGHT_GREY}; font-size:15px; margin-top:10px;'>
         <p>
             The <strong><span style='color:{TEXT_COLOR};'>TOTAL MATCHUPS</span></strong> standings 
-            reflect the hypothetical league in which each team plays all teams every week.
-        </p>
-        <p>
-            This provides us <span style='color:{ESPN_GREEN};'>an accurate representation of each team's weekly performance independent of 
-            schedule luck</span> and can be measured by <strong><span style='color:{ESPN_GREEN};'>TRUE WIN %</span></strong>.
+            reflect the hypothetical league in which each team plays all teams every week. As a result, each 
+            team has 11 weekly matchups.
         </p>
         <p>
             <strong><span style='color:{ESPN_GREEN};'>TRUE WIN %</span></strong> 
             is the percentage of all hypothetical matchups that your team has won across all weeks.
         </p>
         <p>
-            As a result, each team has 11 weekly matchups.
+            This provides <span style='color:{ESPN_GREEN};'>an accurate representation of each team's weekly performance independent of 
+            schedule luck</span>.
         </p>
         <p>
             If your team had the highest point total for a given week, then you will have gone 11-0 during that week.
