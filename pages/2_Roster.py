@@ -756,7 +756,7 @@ with tab2:
                 average scoring output during those weeks.
             </p>
             <p>
-                The same goes for <span style='color:{ESPN_BLUE};'>Difference [Points (Avg) - Projected (Avg)]</span> which measure's a player's average scoring ouput
+                The same goes for <span style='color:{ESPN_BLUE};'>Difference [Points (Avg) - Projected (Avg)]</span> which measures a player's average scoring ouput
                 relative to their average projections.
             </p>
             <p>
