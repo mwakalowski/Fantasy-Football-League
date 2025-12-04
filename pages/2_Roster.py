@@ -761,8 +761,8 @@ with tab2:
             </p>
             <p>
                 If you hover over a player's headshot, you will see their <span style='color:{ESPN_BLUE};'>Points (Avg)</span>, 
-                <span style='color:{ESPN_BLUE};'>Difference</span>, and <span style='color:{ESPN_BLUE};'>Games</span> played 
-                while on your roster.
+                <span style='color:{ESPN_BLUE};'>Difference</span>, <span style='color:{ESPN_BLUE};'>Games</span> played, and  
+                and <span style='color:{ESPN_BLUE};'>Starts</span> while on your roster.
             </p>
         </div>
         """,
