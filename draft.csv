@@ -1,208 +1,208 @@
 Round,Pick Number,Overall Pick,Player,Player ID,Team,Position,NFL Team,Position Rank,Eligible Slots,Acquisition Type,Season
-1,1,1,Bijan Robinson,4430807,ED,RB,ATL,5.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+1,1,1,Bijan Robinson,4430807,ED,RB,ATL,4.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 1,2,2,Ja'Marr Chase,4362628,SELL,WR,CIN,5.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-1,3,3,Saquon Barkley,3929630,PUG,RB,PHI,12.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+1,3,3,Saquon Barkley,3929630,PUG,RB,PHI,11.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
 1,4,4,Jahmyr Gibbs,4429795,WALL,RB,DET,3.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-1,5,5,CeeDee Lamb,4241389,DAVE,WR,DAL,22.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-1,6,6,Justin Jefferson,4262921,CRAIG,WR,MIN,25.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-1,7,7,Amon-Ra St. Brown,4374302,JAY,WR,DET,4.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+1,5,5,CeeDee Lamb,4241389,DAVE,WR,DAL,19.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+1,6,6,Justin Jefferson,4262921,CRAIG,WR,MIN,26.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+1,7,7,Amon-Ra St. Brown,4374302,JAY,WR,DET,3.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 1,8,8,Christian McCaffrey,3117251,WAKA,RB,SF,1.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-1,9,9,Derrick Henry,3043078,HOUSE,RB,BAL,11.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-1,10,10,Ashton Jeanty,4890973,FEDS,RB,LV,14.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-1,11,11,Malik Nabers,4595348,BIV,WR,NYG,86.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-1,12,12,Nico Collins,4258173,HARN,WR,HOU,8.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-2,1,13,Chase Brown,4362238,HARN,RB,CIN,13.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+1,9,9,Derrick Henry,3043078,HOUSE,RB,BAL,13.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+1,10,10,Ashton Jeanty,4890973,FEDS,RB,LV,16.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+1,11,11,Malik Nabers,4595348,BIV,WR,NYG,92.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+1,12,12,Nico Collins,4258173,HARN,WR,HOU,7.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+2,1,13,Chase Brown,4362238,HARN,RB,CIN,12.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
 2,2,14,A.J. Brown,4047646,BIV,WR,PHI,10.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-2,3,15,Josh Jacobs,4047365,FEDS,RB,GB,8.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+2,3,15,Josh Jacobs,4047365,FEDS,RB,GB,7.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 2,4,16,Bucky Irving,4596448,HOUSE,RB,TB,37.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
 2,5,17,Puka Nacua,4426515,WAKA,WR,LAR,2.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 2,6,18,Jonathan Taylor,4242335,JAY,RB,IND,2.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 2,7,19,James Cook III,4379399,CRAIG,RB,BUF,6.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 2,8,20,Kyren Williams,4430737,DAVE,RB,LAR,9.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-2,9,21,Brock Bowers,4432665,WALL,TE,LV,5.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-2,10,22,Tyreek Hill,3116406,PUG,WR,MIA,91.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-2,11,23,De'Von Achane,4429160,SELL,RB,MIA,4.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+2,9,21,Brock Bowers,4432665,WALL,TE,LV,7.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+2,10,22,Tyreek Hill,3116406,PUG,WR,MIA,94.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+2,11,23,De'Von Achane,4429160,SELL,RB,MIA,5.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 2,12,24,Josh Allen,3918298,ED,QB,BUF,1.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
 3,1,25,Trey McBride,4361307,ED,TE,ARI,1.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-3,2,26,Lamar Jackson,3916387,SELL,QB,BAL,16.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-3,3,27,Jayden Daniels,4426348,PUG,QB,WSH,29.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-3,4,28,Brian Thomas Jr.,4432773,WALL,WR,JAX,46.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-3,5,29,Ladd McConkey,4612826,DAVE,WR,LAC,24.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-3,6,30,Tee Higgins,4239993,CRAIG,WR,CIN,16.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-3,7,31,George Kittle,3040151,JAY,TE,SF,19.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-3,8,32,Drake London,4426502,WAKA,WR,ATL,11.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+3,2,26,Lamar Jackson,3916387,SELL,QB,BAL,17.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
+3,3,27,Jayden Daniels,4426348,PUG,QB,WSH,30.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
+3,4,28,Brian Thomas Jr.,4432773,WALL,WR,JAX,44.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+3,5,29,Ladd McConkey,4612826,DAVE,WR,LAC,25.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+3,6,30,Tee Higgins,4239993,CRAIG,WR,CIN,22.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+3,7,31,George Kittle,3040151,JAY,TE,SF,12.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+3,8,32,Drake London,4426502,WAKA,WR,ATL,20.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 3,9,33,Jalen Hurts,4040715,HOUSE,QB,PHI,6.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-3,10,34,Garrett Wilson,4569618,FEDS,WR,NYJ,48.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-3,11,35,Omarion Hampton,4685382,BIV,RB,LAC,41.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-3,12,36,Alvin Kamara,3054850,HARN,RB,NO,38.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+3,10,34,Garrett Wilson,4569618,FEDS,WR,NYJ,53.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+3,11,35,Omarion Hampton,4685382,BIV,RB,LAC,42.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+3,12,36,Alvin Kamara,3054850,HARN,RB,NO,40.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
 4,1,37,Joe Burrow,3915511,HARN,QB,CIN,40.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-4,2,38,Chuba Hubbard,4241416,BIV,RB,CAR,34.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+4,2,38,Chuba Hubbard,4241416,BIV,RB,CAR,36.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 4,3,39,Davante Adams,16800,FEDS,WR,LAR,6.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-4,4,40,Terry McLaurin,3121422,HOUSE,WR,WSH,76.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-4,5,41,Kenneth Walker III,4567048,WAKA,RB,SEA,24.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+4,4,40,Terry McLaurin,3121422,HOUSE,WR,WSH,63.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+4,5,41,Kenneth Walker III,4567048,WAKA,RB,SEA,25.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 4,6,42,Jaxon Smith-Njigba,4430878,JAY,WR,SEA,1.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 4,7,43,James Conner,3045147,CRAIG,RB,ARI,71.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-4,8,44,TreVeyon Henderson,4432710,DAVE,RB,NE,22.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-4,9,45,DK Metcalf,4047650,WALL,WR,PIT,19.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-4,10,46,Xavier Worthy,4683062,PUG,WR,KC,51.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-4,11,47,Mike Evans,16737,SELL,WR,TB,117.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-4,12,48,Tetairoa McMillan,4685472,ED,WR,CAR,13.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-5,1,49,Zay Flowers,4429615,ED,WR,BAL,20.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-5,2,50,D'Andre Swift,4259545,SELL,RB,CHI,17.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-5,3,51,Courtland Sutton,3128429,PUG,WR,DEN,18.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-5,4,52,Tony Pollard,3916148,WALL,RB,TEN,25.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-5,5,53,Marvin Harrison Jr.,4432708,DAVE,WR,ARI,39.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-5,6,54,Sam LaPorta,4430027,CRAIG,TE,DET,18.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-5,7,55,Isiah Pacheco,4361529,JAY,RB,KC,53.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-5,8,56,Breece Hall,4427366,WAKA,RB,NYJ,16.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-5,9,57,George Pickens,4426354,HOUSE,WR,DAL,3.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-5,10,58,DJ Moore,3915416,FEDS,WR,CHI,40.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-5,11,59,Calvin Ridley,3925357,BIV,WR,TEN,101.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-5,12,60,DeVonta Smith,4241478,HARN,WR,PHI,17.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-6,1,61,Jaylen Waddle,4372016,HARN,WR,MIA,12.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+4,8,44,TreVeyon Henderson,4432710,DAVE,RB,NE,17.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+4,9,45,DK Metcalf,4047650,WALL,WR,PIT,18.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+4,10,46,Xavier Worthy,4683062,PUG,WR,KC,49.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+4,11,47,Mike Evans,16737,SELL,WR,TB,95.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+4,12,48,Tetairoa McMillan,4685472,ED,WR,CAR,16.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+5,1,49,Zay Flowers,4429615,ED,WR,BAL,17.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+5,2,50,D'Andre Swift,4259545,SELL,RB,CHI,15.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+5,3,51,Courtland Sutton,3128429,PUG,WR,DEN,11.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+5,4,52,Tony Pollard,3916148,WALL,RB,TEN,23.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+5,5,53,Marvin Harrison Jr.,4432708,DAVE,WR,ARI,41.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+5,6,54,Sam LaPorta,4430027,CRAIG,TE,DET,22.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+5,7,55,Isiah Pacheco,4361529,JAY,RB,KC,54.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+5,8,56,Breece Hall,4427366,WAKA,RB,NYJ,18.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+5,9,57,George Pickens,4426354,HOUSE,WR,DAL,4.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+5,10,58,DJ Moore,3915416,FEDS,WR,CHI,35.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+5,11,59,Calvin Ridley,3925357,BIV,WR,TEN,107.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+5,12,60,DeVonta Smith,4241478,HARN,WR,PHI,21.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+6,1,61,Jaylen Waddle,4372016,HARN,WR,MIA,15.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 6,2,62,Patrick Mahomes,3139477,BIV,QB,KC,2.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-6,3,63,Baker Mayfield,3052587,FEDS,QB,TB,14.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-6,4,64,Khalil Shakir,4373678,HOUSE,WR,BUF,31.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-6,5,65,Rashee Rice,4428331,WAKA,WR,KC,31.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-6,6,66,Jacory Croskey-Merritt,4575131,JAY,RB,WSH,42.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-6,7,67,Jameson Williams,4426388,CRAIG,WR,DET,21.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-6,8,68,David Montgomery,4035538,DAVE,RB,DET,23.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-6,9,69,Emeka Egbuka,4567750,WALL,WR,TB,15.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-6,10,70,RJ Harvey,4568490,PUG,RB,DEN,20.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-6,11,71,Aaron Jones Sr.,3042519,SELL,RB,MIN,46.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-6,12,72,Jerry Jeudy,4241463,ED,WR,CLE,52.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-7,1,73,Jaylen Warren,4569987,ED,RB,PIT,18.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-7,2,74,Rome Odunze,4431299,SELL,WR,CHI,29.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-7,3,75,Mark Andrews,3116365,PUG,TE,BAL,15.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-7,4,76,Tyrone Tracy Jr.,4360516,WALL,RB,NYG,40.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-7,5,77,T.J. Hockenson,4036133,DAVE,TE,MIN,22.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+6,3,63,Baker Mayfield,3052587,FEDS,QB,TB,13.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
+6,4,64,Khalil Shakir,4373678,HOUSE,WR,BUF,32.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+6,5,65,Rashee Rice,4428331,WAKA,WR,KC,30.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+6,6,66,Jacory Croskey-Merritt,4575131,JAY,RB,WSH,39.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+6,7,67,Jameson Williams,4426388,CRAIG,WR,DET,12.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+6,8,68,David Montgomery,4035538,DAVE,RB,DET,24.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+6,9,69,Emeka Egbuka,4567750,WALL,WR,TB,14.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+6,10,70,RJ Harvey,4568490,PUG,RB,DEN,21.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+6,11,71,Aaron Jones Sr.,3042519,SELL,RB,MIN,45.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+6,12,72,Jerry Jeudy,4241463,ED,WR,CLE,51.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+7,1,73,Jaylen Warren,4569987,ED,RB,PIT,20.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+7,2,74,Rome Odunze,4431299,SELL,WR,CHI,33.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+7,3,75,Mark Andrews,3116365,PUG,TE,BAL,17.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+7,4,76,Tyrone Tracy Jr.,4360516,WALL,RB,NYG,33.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+7,5,77,T.J. Hockenson,4036133,DAVE,TE,MIN,21.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 7,6,78,Kyler Murray,3917315,CRAIG,QB,ARI,35.0,"['QB', 'OP', 'BE', 'IR']",[],2025
-7,7,79,Ricky Pearsall,4428209,JAY,WR,SF,82.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-7,8,80,Travis Hunter,4685415,WAKA,WR,JAX,78.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR', 'CB', 'DB', 'DP']",[],2025
-7,9,81,Jordan Mason,4360569,HOUSE,RB,MIN,33.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-7,10,82,Travis Kelce,15847,FEDS,TE,KC,3.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-7,11,83,Stefon Diggs,2976212,BIV,WR,NE,26.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-7,12,84,Jakobi Meyers,3916433,HARN,WR,JAX,33.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-8,1,85,Javonte Williams,4361579,HARN,RB,DAL,7.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-8,2,86,David Njoku,3123076,BIV,TE,CLE,25.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-8,3,87,J.K. Dobbins,4241985,FEDS,RB,DEN,32.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-8,4,88,Jake Ferguson,4242355,HOUSE,TE,DAL,2.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-8,5,89,Brock Purdy,4361741,WAKA,QB,SF,34.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-8,6,90,Bo Nix,4426338,JAY,QB,DEN,9.0,"['QB', 'OP', 'BE', 'IR']",TRADE,2025
-8,7,91,Matthew Golden,4701936,CRAIG,WR,GB,86.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-8,8,92,Justin Herbert,4038941,DAVE,QB,LAC,8.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-8,9,93,Cooper Kupp,2977187,WALL,WR,SEA,54.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-8,10,94,Deebo Samuel,3126486,PUG,WR,WSH,23.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-8,11,95,Evan Engram,3051876,SELL,TE,DEN,28.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-8,12,96,Chris Olave,4361370,ED,WR,NO,7.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-9,1,97,Quinshon Judkins,4685702,ED,RB,CLE,19.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-9,2,98,Kaleb Johnson,4819231,SELL,RB,PIT,99.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-9,3,99,Darnell Mooney,4040655,PUG,WR,ATL,80.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-9,4,100,Austin Ekeler,3068267,WALL,RB,WSH,94.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-9,5,101,Dak Prescott,2577417,DAVE,QB,DAL,4.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-9,6,102,Michael Pittman Jr.,4035687,CRAIG,WR,IND,9.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+7,7,79,Ricky Pearsall,4428209,JAY,WR,SF,75.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+7,8,80,Travis Hunter,4685415,WAKA,WR,JAX,83.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR', 'CB', 'DB', 'DP']",[],2025
+7,9,81,Jordan Mason,4360569,HOUSE,RB,MIN,32.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+7,10,82,Travis Kelce,15847,FEDS,TE,KC,2.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+7,11,83,Stefon Diggs,2976212,BIV,WR,NE,29.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+7,12,84,Jakobi Meyers,3916433,HARN,WR,JAX,31.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+8,1,85,Javonte Williams,4361579,HARN,RB,DAL,8.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+8,2,86,David Njoku,3123076,BIV,TE,CLE,29.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+8,3,87,J.K. Dobbins,4241985,FEDS,RB,DEN,34.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+8,4,88,Jake Ferguson,4242355,HOUSE,TE,DAL,4.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+8,5,89,Brock Purdy,4361741,WAKA,QB,SF,32.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
+8,6,90,Bo Nix,4426338,JAY,QB,DEN,8.0,"['QB', 'OP', 'BE', 'IR']",TRADE,2025
+8,7,91,Matthew Golden,4701936,CRAIG,WR,GB,81.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+8,8,92,Justin Herbert,4038941,DAVE,QB,LAC,11.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
+8,9,93,Cooper Kupp,2977187,WALL,WR,SEA,50.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+8,10,94,Deebo Samuel,3126486,PUG,WR,WSH,24.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+8,11,95,Evan Engram,3051876,SELL,TE,DEN,30.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+8,12,96,Chris Olave,4361370,ED,WR,NO,8.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+9,1,97,Quinshon Judkins,4685702,ED,RB,CLE,22.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+9,2,98,Kaleb Johnson,4819231,SELL,RB,PIT,102.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+9,3,99,Darnell Mooney,4040655,PUG,WR,ATL,79.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+9,4,100,Austin Ekeler,3068267,WALL,RB,WSH,96.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+9,5,101,Dak Prescott,2577417,DAVE,QB,DAL,5.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
+9,6,102,Michael Pittman Jr.,4035687,CRAIG,WR,IND,13.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 9,7,103,Travis Etienne Jr.,4239996,JAY,RB,JAX,10.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-9,8,104,Tyler Warren,4431459,WAKA,TE,IND,4.0,"['Rookie', 'WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+9,8,104,Tyler Warren,4431459,WAKA,TE,IND,5.0,"['Rookie', 'WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 9,9,105,Xavier Legette,4430034,HOUSE,WR,CAR,69.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
 9,10,106,Zach Charbonnet,4426385,FEDS,RB,SEA,31.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-9,11,107,Cam Skattebo,4696981,BIV,RB,NYG,27.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-9,12,108,Tucker Kraft,4572680,HARN,TE,GB,14.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-10,1,109,Jauan Jennings,3886598,HARN,WR,SF,42.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-10,2,110,Jordan Addison,4429205,BIV,WR,MIN,45.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-10,3,111,Chris Godwin Jr.,3116165,FEDS,WR,TB,115.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-10,4,112,Nick Chubb,3128720,HOUSE,RB,HOU,45.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+9,11,107,Cam Skattebo,4696981,BIV,RB,NYG,28.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+9,12,108,Tucker Kraft,4572680,HARN,TE,GB,16.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+10,1,109,Jauan Jennings,3886598,HARN,WR,SF,39.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+10,2,110,Jordan Addison,4429205,BIV,WR,MIN,46.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+10,3,111,Chris Godwin Jr.,3116165,FEDS,WR,TB,100.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+10,4,112,Nick Chubb,3128720,HOUSE,RB,HOU,47.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
 10,5,113,Rhamondre Stevenson,4569173,WAKA,RB,NE,43.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-10,6,114,Keon Coleman,4635008,JAY,WR,BUF,53.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-10,7,115,Keenan Allen,15818,CRAIG,WR,LAC,27.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-10,8,116,Jayden Reed,4362249,DAVE,WR,GB,134.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-10,9,117,Colston Loveland,4723086,WALL,TE,CHI,21.0,"['Rookie', 'WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-10,10,118,Braelon Allen,4685247,PUG,RB,NYJ,88.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-10,11,119,Rashid Shaheed,4032473,SELL,WR,SEA,36.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-10,12,120,Jerome Ford,4372019,ED,RB,CLE,66.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+10,6,114,Keon Coleman,4635008,JAY,WR,BUF,56.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+10,7,115,Keenan Allen,15818,CRAIG,WR,LAC,28.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+10,8,116,Jayden Reed,4362249,DAVE,WR,GB,123.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+10,9,117,Colston Loveland,4723086,WALL,TE,CHI,20.0,"['Rookie', 'WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+10,10,118,Braelon Allen,4685247,PUG,RB,NYJ,91.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+10,11,119,Rashid Shaheed,4032473,SELL,WR,SEA,34.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+10,12,120,Jerome Ford,4372019,ED,RB,CLE,68.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
 11,1,121,Joe Mixon,3116385,ED,RB,HOU,0.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-11,2,122,Bhayshul Tuten,4882093,SELL,RB,JAX,52.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+11,2,122,Bhayshul Tuten,4882093,SELL,RB,JAX,48.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 11,3,123,Trey Benson,4429275,PUG,RB,ARI,69.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-11,4,124,Justin Fields,4362887,WALL,QB,NYJ,24.0,"['QB', 'OP', 'BE', 'IR']",[],2025
-11,5,125,Ollie Gordon II,4711533,DAVE,RB,MIA,60.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-11,6,126,Tank Bigsby,4429013,CRAIG,RB,PHI,83.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-11,7,127,Dallas Goedert,3121023,JAY,TE,PHI,7.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-11,8,128,Brian Robinson Jr.,4241474,WAKA,RB,SF,59.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+11,4,124,Justin Fields,4362887,WALL,QB,NYJ,25.0,"['QB', 'OP', 'BE', 'IR']",[],2025
+11,5,125,Ollie Gordon II,4711533,DAVE,,,,,,2025
+11,6,126,Tank Bigsby,4429013,CRAIG,RB,PHI,81.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+11,7,127,Dallas Goedert,3121023,JAY,TE,PHI,6.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+11,8,128,Brian Robinson Jr.,4241474,WAKA,RB,SF,61.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 11,9,129,Brandon Aubrey,3953687,HOUSE,K,DAL,2.0,"['K', 'BE', 'IR']",DRAFT,2025
-11,10,130,Jayden Higgins,4877706,FEDS,WR,HOU,50.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-11,11,131,C.J. Stroud,4432577,BIV,QB,HOU,25.0,"['QB', 'OP', 'BE', 'IR']",[],2025
+11,10,130,Jayden Higgins,4877706,FEDS,WR,HOU,52.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+11,11,131,C.J. Stroud,4432577,BIV,QB,HOU,21.0,"['QB', 'OP', 'BE', 'IR']",[],2025
 11,12,132,Jaydon Blue,4685279,HARN,,,,,,2025
-12,1,133,Josh Downs,4688813,HARN,WR,IND,49.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
-12,2,134,Tyler Allgeier,4373626,BIV,RB,ATL,36.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+12,1,133,Josh Downs,4688813,HARN,WR,IND,47.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+12,2,134,Tyler Allgeier,4373626,BIV,RB,ATL,38.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 12,3,135,Rachaad White,4697815,FEDS,RB,TB,29.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-12,4,136,Christian Kirk,3895856,HOUSE,WR,HOU,98.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-12,5,137,Hunter Henry,3046439,WAKA,TE,NE,8.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+12,4,136,Christian Kirk,3895856,HOUSE,,,,,,2025
+12,5,137,Hunter Henry,3046439,WAKA,TE,NE,11.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
 12,6,138,Jared Goff,3046779,JAY,QB,DET,10.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
-12,7,139,Cedric Tillman,4369863,CRAIG,WR,CLE,96.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-12,8,140,Marvin Mims Jr.,4686472,DAVE,WR,DEN,73.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-12,9,141,Rashod Bateman,4360939,WALL,WR,BAL,90.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-12,10,142,Kyle Pitts Sr.,4360248,PUG,TE,ATL,10.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-12,11,143,Steelers D/ST,-16023,SELL,D/ST,PIT,8.0,"['D/ST', 'BE', 'IR']",DRAFT,2025
-12,12,144,Hollywood Brown,4241372,ED,WR,KC,41.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+12,7,139,Cedric Tillman,4369863,CRAIG,,,,,,2025
+12,8,140,Marvin Mims Jr.,4686472,DAVE,WR,DEN,70.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+12,9,141,Rashod Bateman,4360939,WALL,WR,BAL,93.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+12,10,142,Kyle Pitts Sr.,4360248,PUG,TE,ATL,3.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+12,11,143,Steelers D/ST,-16023,SELL,D/ST,PIT,6.0,"['D/ST', 'BE', 'IR']",DRAFT,2025
+12,12,144,Hollywood Brown,4241372,ED,WR,KC,42.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
 13,1,145,Brandon Aiyuk,4360438,ED,WR,SF,0.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
-13,2,146,Jake Bates,4689936,SELL,K,DET,8.0,"['K', 'BE', 'IR']",ADD,2025
-13,3,147,Tua Tagovailoa,4241479,PUG,QB,MIA,23.0,"['QB', 'OP', 'BE', 'IR']",[],2025
+13,2,146,Jake Bates,4689936,SELL,K,DET,6.0,"['K', 'BE', 'IR']",ADD,2025
+13,3,147,Tua Tagovailoa,4241479,PUG,QB,MIA,22.0,"['QB', 'OP', 'BE', 'IR']",[],2025
 13,4,148,Najee Harris,4241457,WALL,,,,,,2025
-13,5,149,Dalton Kincaid,4385690,DAVE,TE,BUF,16.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-13,6,150,Wan'Dale Robinson,4569587,CRAIG,WR,NYG,14.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+13,5,149,Dalton Kincaid,4385690,DAVE,TE,BUF,15.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+13,6,150,Wan'Dale Robinson,4569587,CRAIG,WR,NYG,9.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 13,7,151,Broncos D/ST,-16007,JAY,D/ST,DEN,4.0,"['D/ST', 'BE', 'IR']",DRAFT,2025
 13,8,152,Ray Davis,4429501,WAKA,,,,,,2025
-13,9,153,Lions D/ST,-16008,HOUSE,D/ST,DET,15.0,"['D/ST', 'BE', 'IR']",DRAFT,2025
-13,10,154,Ravens D/ST,-16033,FEDS,D/ST,BAL,25.0,"['D/ST', 'BE', 'IR']",[],2025
-13,11,155,Dylan Sampson,5081397,BIV,RB,CLE,49.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+13,9,153,Lions D/ST,-16008,HOUSE,D/ST,DET,17.0,"['D/ST', 'BE', 'IR']",DRAFT,2025
+13,10,154,Ravens D/ST,-16033,FEDS,D/ST,BAL,21.0,"['D/ST', 'BE', 'IR']",[],2025
+13,11,155,Dylan Sampson,5081397,BIV,RB,CLE,53.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
 13,12,156,Drake Maye,4431452,HARN,QB,NE,3.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
 14,1,157,Kendre Miller,4599739,HARN,,,,,,2025
-14,2,158,Brenton Strange,4430539,BIV,TE,JAX,30.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+14,2,158,Brenton Strange,4430539,BIV,TE,JAX,33.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
 14,3,159,Cameron Dicker,4362081,FEDS,K,LAC,3.0,"['K', 'BE', 'IR']",DRAFT,2025
 14,4,160,Will Shipley,4431545,HOUSE,,,,,,2025
-14,5,161,Luther Burden III,4685278,WAKA,WR,CHI,65.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-14,6,162,Jake Elliott,3050478,JAY,K,PHI,22.0,"['K', 'BE', 'IR']",ADD,2025
-14,7,163,Vikings D/ST,-16016,CRAIG,D/ST,MIN,16.0,"['D/ST', 'BE', 'IR']",ADD,2025
+14,5,161,Luther Burden III,4685278,WAKA,WR,CHI,59.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+14,6,162,Jake Elliott,3050478,JAY,K,PHI,21.0,"['K', 'BE', 'IR']",ADD,2025
+14,7,163,Vikings D/ST,-16016,CRAIG,D/ST,MIN,17.0,"['D/ST', 'BE', 'IR']",ADD,2025
 14,8,164,Texans D/ST,-16034,DAVE,D/ST,HOU,2.0,"['D/ST', 'BE', 'IR']",DRAFT,2025
 14,9,165,DeMario Douglas,4427095,WALL,,,,,,2025
 14,10,166,Seahawks D/ST,-16026,PUG,D/ST,SEA,1.0,"['D/ST', 'BE', 'IR']",ADD,2025
-14,11,167,Caleb Williams,4431611,SELL,QB,CHI,7.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
+14,11,167,Caleb Williams,4431611,SELL,QB,CHI,9.0,"['QB', 'OP', 'BE', 'IR']",DRAFT,2025
 14,12,168,Jordan Love,4036378,ED,QB,GB,12.0,"['QB', 'OP', 'BE', 'IR']",TRADE,2025
 15,1,169,Dameon Pierce,4360238,ED,,,,,,2025
 15,2,170,Joshua Palmer,4242433,SELL,,,,,,2025
 15,3,171,Tyler Bass,3917232,PUG,K,BUF,0.0,"['K', 'BE', 'IR']",[],2025
-15,4,172,Jets D/ST,-16020,WALL,D/ST,NYJ,28.0,"['D/ST', 'BE', 'IR']",[],2025
-15,5,173,Chris Boswell,17372,DAVE,K,PIT,6.0,"['K', 'BE', 'IR']",ADD,2025
-15,6,174,Justice Hill,4038441,CRAIG,RB,BAL,55.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+15,4,172,Jets D/ST,-16020,WALL,,,,,,2025
+15,5,173,Chris Boswell,17372,DAVE,K,PIT,8.0,"['K', 'BE', 'IR']",ADD,2025
+15,6,174,Justice Hill,4038441,CRAIG,RB,BAL,56.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
 15,7,175,Adam Thielen,16460,JAY,,,,,,2025
-15,8,176,Rico Dowdle,4038815,WAKA,RB,CAR,15.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+15,8,176,Rico Dowdle,4038815,WAKA,RB,CAR,14.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
 15,9,177,Samaje Perine,3116389,HOUSE,,,,,,2025
-15,10,178,Mason Taylor,4808766,FEDS,TE,NYJ,24.0,"['Rookie', 'WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-15,11,179,Harrison Butker,3055899,BIV,K,KC,15.0,"['K', 'BE', 'IR']",ADD,2025
+15,10,178,Mason Taylor,4808766,FEDS,TE,NYJ,27.0,"['Rookie', 'WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
+15,11,179,Harrison Butker,3055899,BIV,K,KC,16.0,"['K', 'BE', 'IR']",[],2025
 15,12,180,Wil Lutz,2985659,HARN,K,DEN,20.0,"['K', 'BE', 'IR']",[],2025
-16,1,181,Eagles D/ST,-16021,HARN,D/ST,PHI,10.0,"['D/ST', 'BE', 'IR']",ADD,2025
-16,2,182,Woody Marks,4429059,BIV,RB,HOU,28.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+16,1,181,Eagles D/ST,-16021,HARN,D/ST,PHI,8.0,"['D/ST', 'BE', 'IR']",ADD,2025
+16,2,182,Woody Marks,4429059,BIV,RB,HOU,26.0,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
 16,3,183,Michael Penix Jr.,4360423,FEDS,,,,,,2025
-16,4,184,J.J. McCarthy,4433970,HOUSE,QB,MIN,32.0,"['QB', 'OP', 'BE', 'IR']",[],2025
-16,5,185,Bills D/ST,-16002,WAKA,D/ST,BUF,9.0,"['D/ST', 'BE', 'IR']",ADD,2025
+16,4,184,J.J. McCarthy,4433970,HOUSE,QB,MIN,31.0,"['QB', 'OP', 'BE', 'IR']",[],2025
+16,5,185,Bills D/ST,-16002,WAKA,D/ST,BUF,11.0,"['D/ST', 'BE', 'IR']",ADD,2025
 16,6,186,Roschon Johnson,4426386,JAY,,,,,,2025
-16,7,187,Isaac TeSlaa,5123663,CRAIG,WR,DET,104.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
-16,8,188,Blake Corum,4429096,DAVE,RB,LAR,44.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+16,7,187,Isaac TeSlaa,5123663,CRAIG,,,,,,2025
+16,8,188,Blake Corum,4429096,DAVE,RB,LAR,41.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
 16,9,189,Aaron Rodgers,8439,WALL,QB,PIT,18.0,"['QB', 'OP', 'BE', 'IR']",ADD,2025
 16,10,190,Romeo Doubs,4361432,PUG,WR,GB,37.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2025
-16,11,191,Michael Wilson,4360761,SELL,WR,ARI,28.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+16,11,191,Michael Wilson,4360761,SELL,WR,ARI,23.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
 16,12,192,Cardinals D/ST,-16022,ED,,,,,,2025
 17,1,193,Chase McLaughlin,3150744,ED,K,TB,5.0,"['K', 'BE', 'IR']",ADD,2025
-17,2,194,Darren Waller,2576925,SELL,TE,MIA,38.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],2025
+17,2,194,Darren Waller,2576925,SELL,TE,MIA,32.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
 17,3,195,Amari Cooper,2976499,PUG,,,,,,2025
-17,4,196,Tyler Loop,4697745,WALL,K,BAL,10.0,"['Rookie', 'K', 'BE', 'IR']",[],2025
+17,4,196,Tyler Loop,4697745,WALL,K,BAL,11.0,"['Rookie', 'K', 'BE', 'IR']",ADD,2025
 17,5,197,DeAndre Hopkins,15795,DAVE,,,,,,2025
-17,6,198,Matt Gay,4249087,CRAIG,K,SF,23.0,"['K', 'BE', 'IR']",[],2025
-17,7,199,Pat Bryant,4600981,JAY,WR,DEN,83.0,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",ADD,2025
+17,6,198,Matt Gay,4249087,CRAIG,K,,26.0,"['K', 'BE', 'IR']",[],2025
+17,7,199,Pat Bryant,4600981,JAY,,,,,,2025
 17,8,200,Ka'imi Fairbairn,2971573,WAKA,K,HOU,4.0,"['K', 'BE', 'IR']",ADD,2025
 17,9,201,Ray-Ray McCloud III,3728262,HOUSE,,,,,,2025
 17,10,202,Tre' Harris,4686612,FEDS,,,,,,2025
 17,11,203,Patriots D/ST,-16017,BIV,D/ST,NE,6.0,"['D/ST', 'BE', 'IR']",ADD,2025
-17,12,204,Zach Ertz,15835,HARN,TE,WSH,11.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
+17,12,204,Zach Ertz,15835,HARN,TE,WSH,14.0,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2025
 1,1,1,Christian McCaffrey,3117251,PUG,RB,SF,69.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",TRADE,2024
 1,2,2,CeeDee Lamb,4241389,CRAIG,WR,DAL,8.0,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2024
 1,3,3,Breece Hall,4427366,FEDS,RB,NYJ,16.0,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",DRAFT,2024
