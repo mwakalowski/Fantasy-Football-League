@@ -67,6 +67,7 @@ div[data-testid="stSidebarNav"] li a[aria-current="page"] {{
 
 # --- LEAGUE WINNERS TABLE ---
 data = [
+    {"Season": 2025, "🥇": "Mike Wakalowski", "🥈": "Casey Wall", "🥉": "Dave Reingold", "Top Scorer": "Mike Wakalowski"},
     {"Season": 2024, "🥇": "Zac Edwards", "🥈": "Mike Wakalowski", "🥉": "Jon Harned", "Top Scorer": "Jon Harned"},
     {"Season": 2023, "🥇": "Mike Wakalowski", "🥈": "Dave Craig", "🥉": "Dave Reingold", "Top Scorer": "Jay Puglisi"},
 ]
