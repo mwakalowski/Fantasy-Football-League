@@ -227,10 +227,9 @@ except FileNotFoundError:
     st.error("weekly_matchups.csv not found. Please check the file path.")
     st.stop()
 
-selected_season = st.session_state.get("selected_season", 2024)
-
-# Filter your dataframe
-df_filtered = df[df["Season"] == selected_season]
+if df.empty:
+    st.info(f"No completed matchup data is available for {season} yet.")
+    st.stop()
 
 # === Helper: build player card ===
 def build_player_card(row, metric_text):
@@ -412,4 +411,3 @@ div[data-testid="stButton"] button:hover {{
 }}
 </style>
 """, unsafe_allow_html=True)
-
