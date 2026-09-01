@@ -2,15 +2,30 @@
 import streamlit as st
 import pandas as pd
 
+
+def available_seasons(path: str = "team_weekly.csv") -> list[int]:
+    """Return the sorted seasons present in the app's aggregated data."""
+    season_data = pd.read_csv(path, usecols=["Season"])
+    seasons = sorted(
+        season_data["Season"].dropna().astype(int).unique().tolist()
+    )
+    if not seasons:
+        raise ValueError(f"No seasons were found in {path}")
+    return seasons
+
+
 def render_season_filter() -> int:
-    """Render a global Season filter in the sidebar and persist selection."""
-    if "season" not in st.session_state:
-        st.session_state["season"] = 2025  # default
+    """Render the global Season filter and default to the latest season."""
+    seasons = available_seasons()
+    selected = st.session_state.get("season")
+    if selected not in seasons:
+        selected = seasons[-1]
+        st.session_state["season"] = selected
 
     season = st.sidebar.selectbox(
         "Season",
-        [2024, 2025],  # or dynamically load from data
-        index=[2024, 2025].index(st.session_state["season"])
+        seasons,
+        index=seasons.index(selected),
     )
 
     st.session_state["season"] = season
