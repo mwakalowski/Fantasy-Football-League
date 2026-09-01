@@ -134,6 +134,10 @@ season = st.session_state.get("season", 2024)
 def load_data():
     df = load_and_filter_csv("weekly_matchups.csv", season)  # replace with your actual file
 
+    if df.empty:
+        st.info(f"No completed matchup data is available for {season} yet.")
+        st.stop()
+
     # Create Record field
     df["Record"] = df["Wins"].astype(str) + "-" + df["Losses"].astype(str)
 
@@ -528,4 +532,3 @@ for i in range(max_len):
                 """,
                 unsafe_allow_html=True
             )
-
