@@ -213,9 +213,9 @@ display_columns = [
     "Round",
     "Pick Number",
     "Overall Pick",
-    "Team",
     "Headshot",
     "Player",
+    "Team",
     "Drafted Pos Rank",
     "Latest Pos Rank"
 ]
@@ -317,7 +317,7 @@ for i, (_, row) in enumerate(display_df.iterrows()):
             elif col == "Overall Pick":
                 cell_html = f"<span style='color:{ESPN_BLUE};'>{cell_value}</span>"
             elif col == "Team":
-                cell_html = f"<span style='color:{ESPN_BLUE}; font-weight:600;'>{cell_value}</span>"
+                cell_html = f"<span style='color:{LIGHT_GREY};'>{cell_value}</span>"
             elif col == "Round":
                 cell_html = f"<span style='color:{LIGHT_GREY};'>{cell_value}</span>"
             elif col == "Pick Number":
