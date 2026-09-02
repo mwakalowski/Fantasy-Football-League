@@ -7346,9 +7346,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 1,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 1,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 1,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 1,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -7378,41 +7378,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 1,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 1,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 1,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-1,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-1,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+1,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+1,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 1,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 1,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 1,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -7477,12 +7477,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 1,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 1,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 1,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-1,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+1,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 1,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 1,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 1,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 1,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 1,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+1,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 1,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 1,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 1,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -7553,9 +7554,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 2,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 2,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 2,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 2,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -7585,41 +7586,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 2,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 2,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 2,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-2,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-2,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+2,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+2,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 2,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 2,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 2,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -7684,12 +7685,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 2,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 2,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 2,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-2,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+2,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 2,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 2,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 2,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 2,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 2,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+2,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 2,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 2,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 2,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -7760,9 +7762,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 3,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 3,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 3,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 3,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -7792,41 +7794,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 3,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 3,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 3,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-3,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-3,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+3,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+3,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 3,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 3,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 3,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -7891,12 +7893,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 3,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 3,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 3,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-3,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+3,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 3,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 3,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 3,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 3,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 3,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+3,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 3,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 3,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 3,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -7967,9 +7970,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 4,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 4,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 4,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 4,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -7999,41 +8002,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 4,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 4,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 4,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-4,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-4,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+4,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+4,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 4,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 4,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 4,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -8098,12 +8101,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 4,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 4,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 4,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-4,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+4,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 4,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 4,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 4,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 4,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 4,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+4,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 4,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 4,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 4,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -8174,9 +8178,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 5,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 5,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 5,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 5,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -8206,41 +8210,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 5,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 5,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 5,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-5,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-5,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+5,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+5,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 5,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 5,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 5,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -8305,12 +8309,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 5,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 5,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 5,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-5,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+5,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 5,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 5,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 5,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 5,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 5,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+5,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 5,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 5,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 5,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -8381,9 +8386,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 6,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 6,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 6,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 6,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -8413,41 +8418,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 6,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 6,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 6,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-6,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-6,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+6,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+6,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 6,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 6,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 6,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -8512,12 +8517,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 6,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 6,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 6,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-6,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+6,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 6,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 6,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 6,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 6,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 6,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+6,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 6,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 6,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 6,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -8588,9 +8594,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 7,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 7,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 7,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 7,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -8620,41 +8626,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 7,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 7,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 7,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-7,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-7,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+7,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+7,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 7,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 7,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 7,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -8719,12 +8725,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 7,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 7,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 7,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-7,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+7,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 7,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 7,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 7,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 7,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 7,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+7,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 7,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 7,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 7,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -8795,9 +8802,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 8,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 8,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 8,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 8,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -8827,41 +8834,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 8,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 8,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 8,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-8,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-8,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+8,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+8,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 8,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 8,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 8,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -8926,12 +8933,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 8,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 8,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 8,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-8,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+8,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 8,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 8,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 8,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 8,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 8,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+8,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 8,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 8,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 8,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -9002,9 +9010,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 9,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 9,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 9,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 9,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -9034,41 +9042,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 9,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 9,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 9,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-9,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-9,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+9,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+9,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 9,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 9,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 9,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -9133,12 +9141,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 9,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 9,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 9,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-9,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+9,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 9,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 9,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 9,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 9,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 9,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+9,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 9,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 9,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 9,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -9209,9 +9218,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 10,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 10,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 10,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 10,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -9241,41 +9250,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 10,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 10,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 10,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-10,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-10,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+10,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+10,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 10,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 10,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 10,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -9340,12 +9349,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 10,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 10,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 10,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-10,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+10,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 10,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 10,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 10,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 10,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 10,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+10,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 10,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 10,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 10,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -9416,9 +9426,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 11,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 11,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 11,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 11,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -9448,41 +9458,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 11,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 11,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 11,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-11,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-11,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+11,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+11,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 11,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 11,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 11,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -9547,12 +9557,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 11,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 11,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 11,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-11,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+11,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 11,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 11,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 11,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 11,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 11,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+11,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 11,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 11,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 11,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -9623,9 +9634,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 12,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 12,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 12,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 12,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -9655,41 +9666,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 12,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 12,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 12,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-12,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-12,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+12,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+12,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 12,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 12,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 12,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -9754,12 +9765,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 12,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 12,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 12,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-12,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+12,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 12,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 12,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 12,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 12,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 12,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+12,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 12,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 12,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 12,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -9830,9 +9842,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 13,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 13,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 13,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 13,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -9862,41 +9874,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 13,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 13,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 13,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-13,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-13,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+13,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+13,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 13,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 13,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 13,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -9961,12 +9973,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 13,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 13,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 13,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-13,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+13,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 13,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 13,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 13,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 13,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 13,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+13,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 13,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 13,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 13,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -10037,9 +10050,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 14,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 14,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 14,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 14,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -10069,41 +10082,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 14,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 14,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 14,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-14,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-14,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+14,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+14,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 14,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 14,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 14,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -10168,12 +10181,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 14,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 14,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 14,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-14,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+14,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 14,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 14,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 14,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 14,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 14,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+14,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 14,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 14,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 14,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -10244,9 +10258,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 15,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 15,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 15,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 15,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -10276,41 +10290,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 15,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 15,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 15,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-15,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-15,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+15,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+15,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 15,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 15,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 15,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -10375,12 +10389,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 15,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 15,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 15,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-15,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+15,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 15,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 15,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 15,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 15,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 15,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+15,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 15,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 15,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 15,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -10451,9 +10466,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 16,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 16,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 16,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 16,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -10483,41 +10498,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 16,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 16,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 16,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-16,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-16,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+16,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+16,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 16,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 16,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 16,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -10582,12 +10597,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 16,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 16,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 16,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-16,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+16,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 16,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 16,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 16,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 16,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 16,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+16,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 16,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 16,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 16,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
@@ -10658,9 +10674,9 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 17,The Federicos,Justin Biviano,0.0,0.0,Nicholas Singleton,4685555,RB,TEN,BE,0.0,1.22,BYE,,bye,FEDS,BIV,2026
 17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jahmyr Gibbs,4429795,RB,DET,RB,0.0,21.53,BYE,,bye,WAKA,PUG,2026
 17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Drake London,4426502,WR,ATL,WR,0.0,15.14,BYE,,bye,WAKA,PUG,2026
-17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,WR,0.0,13.75,BYE,,bye,WAKA,PUG,2026
+17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Malik Nabers,4595348,WR,NYG,FLEX,0.0,13.75,BYE,,bye,WAKA,PUG,2026
 17,Mike Wakalowski,Mike Puglisi,0.0,0.0,David Montgomery,4035538,RB,HOU,RB,0.0,12.67,BYE,,bye,WAKA,PUG,2026
-17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,FLEX,0.0,12.96,BYE,,bye,WAKA,PUG,2026
+17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Tee Higgins,4239993,WR,CIN,WR,0.0,12.96,BYE,,bye,WAKA,PUG,2026
 17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Mike Evans,16737,WR,SF,BE,0.0,10.64,BYE,,bye,WAKA,PUG,2026
 17,Mike Wakalowski,Mike Puglisi,0.0,0.0,Jonathon Brooks,4678008,RB,CAR,BE,0.0,11.75,BYE,,bye,WAKA,PUG,2026
 17,Mike Wakalowski,Mike Puglisi,0.0,0.0,J.K. Dobbins,4241985,RB,DEN,BE,0.0,9.53,BYE,,bye,WAKA,PUG,2026
@@ -10690,41 +10706,41 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 17,Mike Puglisi,Mike Wakalowski,0.0,0.0,Steelers D/ST,-16023,D/ST,PIT,D/ST,0.0,8.16,BYE,,bye,PUG,WAKA,2026
 17,Mike Puglisi,Mike Wakalowski,0.0,0.0,Brenton Strange,4430539,TE,JAX,BE,0.0,8.13,BYE,,bye,PUG,WAKA,2026
 17,Mike Puglisi,Mike Wakalowski,0.0,0.0,Rashod Bateman,4360939,WR,BAL,BE,0.0,7.31,BYE,,bye,PUG,WAKA,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,WHAM,CRAIG,2026
-17,ESPNFAN0492448779,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,WHAM,CRAIG,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,WHAM,2026
-17,Dave Craig,ESPNFAN0492448779,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,WHAM,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Puka Nacua,4426515,WR,LAR,WR,0.0,21.06,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Trey McBride,4361307,TE,ARI,TE,0.0,14.35,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Javonte Williams,4361579,RB,DAL,RB,0.0,15.22,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Cam Skattebo,4696981,RB,NYG,RB,0.0,13.67,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Terry McLaurin,3121422,WR,WSH,WR,0.0,12.27,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Jayden Daniels,4426348,QB,WSH,QB,0.0,16.83,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Carnell Tate,4871023,WR,TEN,FLEX,0.0,11.98,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Blake Corum,4429096,RB,LAR,BE,0.0,9.37,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Matthew Golden,4701936,WR,GB,BE,0.0,11.06,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Aaron Jones Sr.,3042519,RB,MIN,BE,0.0,10.27,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Bo Nix,4426338,QB,DEN,BE,0.0,16.2,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Deebo Samuel Sr.,3126486,WR,SF,BE,0.0,8.88,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Tyler Allgeier,4373626,RB,ARI,BE,0.0,6.79,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Juwan Johnson,3929645,TE,NO,BE,0.0,8.83,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Tank Dell,4366031,WR,HOU,IR,0.0,0.0,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Eagles D/ST,-16021,D/ST,PHI,D/ST,0.0,7.11,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Chris Boswell,17372,K,PIT,K,0.0,9.24,BYE,,bye,SELL,CRAIG,2026
+17,Corey Sell,Dave Craig,0.0,0.0,Devaughn Vele,4569559,WR,NO,BE,0.0,9.31,BYE,,bye,SELL,CRAIG,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Chase Brown,4362238,RB,CIN,RB,0.0,16.03,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,De'Von Achane,4429160,RB,MIA,RB,0.0,18.22,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Rashee Rice,4428331,WR,KC,WR,0.0,14.36,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Zay Flowers,4429615,WR,BAL,WR,0.0,14.24,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Tucker Kraft,4572680,TE,GB,TE,0.0,9.09,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Dak Prescott,2577417,QB,DAL,QB,0.0,16.73,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Alec Pierce,4360078,WR,IND,FLEX,0.0,9.71,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Kenny Gainwell,4371733,RB,TB,BE,0.0,10.79,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Jordan Addison,4429205,WR,MIN,BE,0.0,9.93,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Josh Jacobs,4047365,RB,GB,BE,0.0,0.0,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Kenyon Sadiq,5083315,TE,NYJ,BE,0.0,5.09,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Woody Marks,4429059,RB,HOU,BE,0.0,8.27,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Ravens D/ST,-16033,D/ST,BAL,D/ST,0.0,7.61,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Jason Myers,2473037,K,SEA,K,0.0,9.66,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Sam Darnold,3912547,QB,SEA,BE,0.0,14.03,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Samaje Perine,3116389,RB,CIN,BE,0.0,5.93,BYE,,bye,CRAIG,SELL,2026
+17,Dave Craig,Corey Sell,0.0,0.0,Calvin Ridley,3925357,WR,TEN,BE,0.0,8.05,BYE,,bye,CRAIG,SELL,2026
 17,Dave Reingold,Zac Edwards,0.0,0.0,Ja'Marr Chase,4362628,WR,CIN,WR,0.0,19.95,BYE,,bye,DAVE,ED,2026
 17,Dave Reingold,Zac Edwards,0.0,0.0,A.J. Brown,4047646,WR,NE,WR,0.0,14.27,BYE,,bye,DAVE,ED,2026
 17,Dave Reingold,Zac Edwards,0.0,0.0,Kyren Williams,4430737,RB,LAR,RB,0.0,13.67,BYE,,bye,DAVE,ED,2026
@@ -10789,12 +10805,13 @@ Week,Owner,Opponent Owner,Team Score,Opponent Score,Player,Player ID,Position,NF
 17,Casey Wall,Jon Harned,0.0,0.0,Brian Thomas Jr.,4432773,WR,JAX,BE,0.0,10.12,BYE,,bye,WALL,HARN,2026
 17,Casey Wall,Jon Harned,0.0,0.0,Dalton Kincaid,4385690,TE,BUF,TE,0.0,8.67,BYE,,bye,WALL,HARN,2026
 17,Casey Wall,Jon Harned,0.0,0.0,Khalil Shakir,4373678,WR,BUF,BE,0.0,9.5,BYE,,bye,WALL,HARN,2026
-17,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,BE,0.0,5.99,BYE,,bye,WALL,HARN,2026
+17,Casey Wall,Jon Harned,0.0,0.0,Isiah Pacheco,4361529,RB,DET,IR,0.0,5.99,BYE,,bye,WALL,HARN,2026
 17,Casey Wall,Jon Harned,0.0,0.0,Seahawks D/ST,-16026,D/ST,SEA,D/ST,0.0,8.11,BYE,,bye,WALL,HARN,2026
 17,Casey Wall,Jon Harned,0.0,0.0,Alvin Kamara,3054850,RB,NO,BE,0.0,0.0,BYE,,bye,WALL,HARN,2026
 17,Casey Wall,Jon Harned,0.0,0.0,Jalen McMillan,4430834,WR,TB,BE,0.0,8.16,BYE,,bye,WALL,HARN,2026
 17,Casey Wall,Jon Harned,0.0,0.0,Harrison Mevis,4574716,K,LAR,K,0.0,9.68,BYE,,bye,WALL,HARN,2026
 17,Casey Wall,Jon Harned,0.0,0.0,Hunter Henry,3046439,TE,NE,BE,0.0,8.28,BYE,,bye,WALL,HARN,2026
+17,Casey Wall,Jon Harned,0.0,0.0,Tank Bigsby,4429013,RB,PHI,BE,0.0,4.25,BYE,,bye,WALL,HARN,2026
 17,Jay Puglisi,Mike Houseal,0.0,0.0,Jonathan Taylor,4242335,RB,IND,RB,0.0,17.77,BYE,,bye,JAY,HOUSE,2026
 17,Jay Puglisi,Mike Houseal,0.0,0.0,Brock Bowers,4432665,TE,LV,TE,0.0,15.6,BYE,,bye,JAY,HOUSE,2026
 17,Jay Puglisi,Mike Houseal,0.0,0.0,Travis Etienne Jr.,4239996,RB,NO,RB,0.0,14.96,BYE,,bye,JAY,HOUSE,2026
