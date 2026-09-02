@@ -534,9 +534,11 @@ for i, (_, row) in enumerate(display_df.iterrows()):
                 else:
                     color = LIGHT_GREY  # fallback if not numeric
             
-            elif col == "Overall Points (Avg)":
-                if isinstance(cell_value, numbers.Number):
-                    cell_value = round(cell_value, 1)
+            elif col in ["Overall Points (Avg)", "Points (Avg)", "Projected (Avg)"]:
+                if isinstance(cell_value, numbers.Number) and not pd.isna(cell_value):
+                    cell_value = f"{float(cell_value):.1f}"
+                else:
+                    cell_value = "—"
                 color = LIGHT_GREY
 
             elif col == "Games":
