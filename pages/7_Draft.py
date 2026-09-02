@@ -129,11 +129,14 @@ season = st.session_state.get("season", 2024)
 df = load_and_filter_csv("draft.csv", season)
 
 # --- FILTER: TEAM ABBREV (in sidebar, matching season filter style) ---
+team_options = ["All Teams"] + sorted(df["Team"].dropna().unique().tolist())
+
 with st.sidebar:
     selected_team = st.selectbox(
         "Team",
-        sorted(df['Team'].unique()),
-        key="team_selector"
+        team_options,
+        index=0,
+        key="draft_team_selector"
     )
 
 # --- Create Latest Pos Rank (accounting for nulls) ---
@@ -171,7 +174,12 @@ df['Drafted Pos Rank'] = df.apply(drafted_pos_rank, axis=1)
 df.drop(columns=['Drafted Pos Rank Num'], inplace=True)
 
 # === FILTER DF FOR SELECTED TEAM ===
-team_df = df[df["Team"] == selected_team].copy()
+if selected_team == "All Teams":
+    team_df = df.sort_values("Overall Pick", kind="stable").copy()
+else:
+    team_df = df[df["Team"] == selected_team].sort_values(
+        "Overall Pick", kind="stable"
+    ).copy()
 
 # --- SELECT COLUMNS & FORMAT ---
 display_df = team_df[[
@@ -205,6 +213,7 @@ display_columns = [
     "Round",
     "Pick Number",
     "Overall Pick",
+    "Team",
     "Headshot",
     "Player",
     "Drafted Pos Rank",
@@ -307,6 +316,8 @@ for i, (_, row) in enumerate(display_df.iterrows()):
             # Apply color for "Overall Pick"
             elif col == "Overall Pick":
                 cell_html = f"<span style='color:{ESPN_BLUE};'>{cell_value}</span>"
+            elif col == "Team":
+                cell_html = f"<span style='color:{ESPN_BLUE}; font-weight:600;'>{cell_value}</span>"
             elif col == "Round":
                 cell_html = f"<span style='color:{LIGHT_GREY};'>{cell_value}</span>"
             elif col == "Pick Number":
