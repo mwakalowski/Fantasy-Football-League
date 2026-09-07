@@ -28,6 +28,7 @@ TEAM_COLORS = {
     "BIV": "#1ABC9C",   # Teal
     "HOUSE": "#E91E63",   # Pink/Magenta
     "FEDS": "#1B974F",   # Emerald Green
+    "PAT": "#1B974F",   # Emerald Green
     "DAVE": "#34B4DB",  # Sky Blue
     "SELL": "#6E9294",  # Cool Grey
     "JAY": "#F39C12"   # Amber
