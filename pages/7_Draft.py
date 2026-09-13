@@ -141,12 +141,21 @@ with st.sidebar:
 
 # --- Create Latest Pos Rank (accounting for nulls) ---
 def latest_pos_rank(row):
-    if pd.notna(row["Position"]) and pd.notna(row["Position Rank"]):
-        try:
-            return f"{row['Position']}{int(row['Position Rank'])}"
-        except Exception:
-            return ""
-    else:
+    position = row.get("Position")
+    rank = row.get("Position Rank")
+
+    if pd.isna(position) or pd.isna(rank):
+        return ""
+
+    rank = str(rank).strip()
+
+    # Treat placeholders as missing
+    if rank in ("", "[]", "nan", "None"):
+        return ""
+
+    try:
+        return f"{position}{int(float(rank))}"
+    except (ValueError, TypeError):
         return ""
 
 df["Latest Pos Rank"] = df.apply(latest_pos_rank, axis=1)
