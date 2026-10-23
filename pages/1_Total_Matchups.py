@@ -97,6 +97,81 @@ selected_seasons = st.sidebar.multiselect(
 # Apply filter
 df = df[df["Season"].isin(selected_seasons)]
 
+# ============================================================
+# === OPPONENT QUALITY INDEX (OQI)
+# ============================================================
+
+# Ensure Is Actual Matchup is boolean in case CSV reads it as text
+if df["Is Actual Matchup"].dtype != bool:
+    df["Is Actual Matchup"] = (
+        df["Is Actual Matchup"]
+        .astype(str)
+        .str.strip()
+        .str.lower()
+        .eq("true")
+    )
+
+# --- 1. Calculate each team's weekly all-play quality ---
+weekly_quality = (
+    df.groupby(["Season", "Week", "Abbrev"], as_index=False)
+    .agg(
+        Weekly_Wins=("Win", "sum"),
+        Weekly_Losses=("Loss", "sum")
+    )
+)
+
+weekly_quality["Weekly Quality"] = (
+    weekly_quality["Weekly_Wins"]
+    / (weekly_quality["Weekly_Wins"] + weekly_quality["Weekly_Losses"])
+) * 100
+
+
+# --- 2. Pull only each team's actual scheduled matchup ---
+actual_schedule = (
+    df[df["Is Actual Matchup"]]
+    [
+        [
+            "Season",
+            "Week",
+            "Abbrev",
+            "Actual Opponent"
+        ]
+    ]
+    .drop_duplicates()
+)
+
+
+# --- 3. Prepare opponent weekly quality lookup ---
+opponent_quality = weekly_quality[
+    ["Season", "Week", "Abbrev", "Weekly Quality"]
+].rename(
+    columns={
+        "Abbrev": "Actual Opponent",
+        "Weekly Quality": "Opponent Weekly Quality"
+    }
+)
+
+
+# --- 4. Attach opponent quality to each actual matchup ---
+actual_schedule = actual_schedule.merge(
+    opponent_quality,
+    on=["Season", "Week", "Actual Opponent"],
+    how="left"
+)
+
+
+# --- 5. Calculate average Opponent Quality Index by team ---
+oqi_df = (
+    actual_schedule
+    .groupby("Abbrev", as_index=False)
+    .agg(
+        OQI=("Opponent Weekly Quality", "mean"),
+        Games=("Opponent Weekly Quality", "count")
+    )
+)
+
+oqi_df["OQI"] = oqi_df["OQI"].round(1)
+
 # Add cumulative Wins and Losses across all seasons (no reset per season)
 df = df.sort_values(["Abbrev", "Season", "Week"]).copy()
 
@@ -157,6 +232,13 @@ latest_df = df.sort_values(["Abbrev", "Season", "Week"]).groupby("Abbrev").tail(
 # Combine stats
 latest_df = latest_df.merge(score_stats, on="Abbrev", how="left")
 
+# Add Opponent Quality Index
+latest_df = latest_df.merge(
+    oqi_df[["Abbrev", "OQI"]],
+    on="Abbrev",
+    how="left"
+)
+
 # Combine team abbrev + owner
 latest_df["Abbrev_Owner"] = latest_df.apply(
     lambda x: f"<span style='color:{ESPN_BLUE}; font-weight:600;'>{x['Abbrev']}</span><br>"
@@ -189,6 +271,7 @@ latest_df["Rank"] = latest_df.index + 1
 display_columns = [
     "Rank", "Abbrev_Owner", "Wins", "Losses",
     "True Win % Display", "Actual Win % Display", "Diff",
+    "OQI",
     "AVG", "MED", "HIGH", "LOW"
 ]
 
@@ -200,6 +283,7 @@ header_map = {
     "True Win % Display": "True Win %",
     "Actual Win % Display": "Actual Win %",
     "Diff": "Diff (True - Actual)",
+    "OQI": "OQI",
     "AVG": "AVG",
     "MED": "MED",
     "HIGH": "HIGH",
