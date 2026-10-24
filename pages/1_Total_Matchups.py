@@ -172,9 +172,6 @@ oqi_df = (
 
 oqi_df["OQI"] = oqi_df["OQI"].round(1)
 
-max_oqi = latest_df["OQI"].max()
-min_oqi = latest_df["OQI"].min()
-
 # Add cumulative Wins and Losses across all seasons (no reset per season)
 df = df.sort_values(["Abbrev", "Season", "Week"]).copy()
 
@@ -269,6 +266,10 @@ min_vals = {col: latest_df[col].min() for col in stat_cols}
 # --- SORT + RANK ---
 latest_df = latest_df.sort_values("True Win %", ascending=False).reset_index(drop=True)
 latest_df["Rank"] = latest_df.index + 1
+
+# --- Calculate MIN and MAX OQI
+max_oqi = latest_df["OQI"].max()
+min_oqi = latest_df["OQI"].min()
 
 # === COLUMNS TO DISPLAY ===
 display_columns = [
