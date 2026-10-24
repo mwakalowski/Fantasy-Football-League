@@ -488,10 +488,10 @@ fig.update_layout(
     )
 )
 
-# === True Win % vs. Difference ===
+# === True Win % vs. OQI ===
 
 # Assuming latest_df is already defined
-x2 = latest_df['Diff']
+x2 = latest_df['OQI']
 y2 = latest_df['True Win %']
 labels = latest_df['Abbrev']
 
@@ -523,10 +523,10 @@ fig2.add_trace(go.Scatter(
 
 # Define quadrant label positions
 quadrant_positions = [
-    ("High Scoring<br>Unfortunate Matchups",  (x_med2 + max(x2)) / 2, (y_med2 + max(y2)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
-    ("Low Scoring<br>Unfortunate Matchups",   (x_med2 + max(x2)) / 2, (y_med2 + min(y2)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
-    ("Low Scoring<br>Fortunate Matchups",    (x_med2 + min(x2)) / 2, (y_med2 + min(y2)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
-    ("High Scoring<br>Fortunate Matchups",   (x_med2 + min(x2)) / 2, (y_med2 + max(y2)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
+    ("Strong Team<br>Tough Schedule",  (x_med2 + max(x2)) / 2, (y_med2 + max(y2)) / 2, "rgba(0, 200, 0, 0.12)"),  # Q1
+    ("Weaker Team<br>Tough Schedule",   (x_med2 + max(x2)) / 2, (y_med2 + min(y2)) / 2, "rgba(0, 120, 255, 0.12)"), # Q2
+    ("Weaker Team<br>Easier Schedule",    (x_med2 + min(x2)) / 2, (y_med2 + min(y2)) / 2, "rgba(255, 0, 0, 0.12)"),   # Q3
+    ("Strong Team<br>Easier Schedule",   (x_med2 + min(x2)) / 2, (y_med2 + max(y2)) / 2, "rgba(255, 165, 0, 0.12)")  # Q4
 ]
 
 # Add shaded quadrant rectangles
@@ -600,7 +600,7 @@ fig2.update_layout(
     
     # Chart title
     title=dict(
-        text="TRUE WIN % vs. DIFFERENCE (TRUE - ACTUAL)",
+        text="TRUE WIN % vs. Opponent Quality Index (OQI)",
         font=dict(
             family="Oswald, sans-serif",
             size=18,
@@ -616,7 +616,7 @@ fig2.update_layout(
     
     # X-axis configuration
     xaxis=dict(
-        title="Difference (True Win % - Actual Win %)",
+        title="Opponent Quality Index (OQI)",
         tickfont=dict(color=LIGHT_GREY),
         showgrid=True,
         gridcolor="#2A2A2A",   # subtle gray gridlines
