@@ -172,6 +172,9 @@ oqi_df = (
 
 oqi_df["OQI"] = oqi_df["OQI"].round(1)
 
+max_oqi = latest_df["OQI"].max()
+min_oqi = latest_df["OQI"].min()
+
 # Add cumulative Wins and Losses across all seasons (no reset per season)
 df = df.sort_values(["Abbrev", "Season", "Week"]).copy()
 
@@ -344,6 +347,15 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
             color = GREEN_DARK if diff_val > 0 else RED_DARK if diff_val < 0 else LIGHT_GREY
             sign = "+" if diff_val > 0 else ""
             cell_html = f"<span style='color:{color}; font-weight:600;'>{sign}{diff_val}%</span>"
+
+        elif col == "OQI":
+            oqi_val = row["OQI"]
+        
+            if pd.isna(oqi_val):
+                cell_html = ""
+            else:
+                style += f" color:{LIGHT_GREY};"
+                cell_html = f"{oqi_val:.1f}"
 
         elif col in ["AVG", "MED", "HIGH", "LOW"]:
             val = row[col]
