@@ -355,8 +355,18 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
             if pd.isna(oqi_val):
                 cell_html = ""
             else:
-                style += f" color:{LIGHT_GREY};"
-                cell_html = f"{oqi_val:.1f}"
+                if oqi_val == max_oqi:
+                    color = RED_DARK
+                elif oqi_val == min_oqi:
+                    color = GREEN_DARK
+                else:
+                    color = LIGHT_GREY
+        
+                cell_html = (
+                    f"<span style='color:{color}; font-weight:600;'>"
+                    f"{oqi_val:.1f}"
+                    f"</span>"
+                )
 
         elif col in ["AVG", "MED", "HIGH", "LOW"]:
             val = row[col]
