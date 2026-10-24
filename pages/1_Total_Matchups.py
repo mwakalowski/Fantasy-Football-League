@@ -358,7 +358,7 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
 
         elif col == "Diff":
             diff_val = round(row["Diff"], 1)
-            color = ESPN_GREEN if diff_val > 0 else ESPN_RED if diff_val < 0 else LIGHT_GREY
+            color = ESPN_RED if diff_val > 0 else ESPN_GREEN if diff_val < 0 else LIGHT_GREY
             sign = "+" if diff_val > 0 else ""
             cell_html = f"<span style='color:{color}; font-weight:600;'>{sign}{diff_val}%</span>"
 
