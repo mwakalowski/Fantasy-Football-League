@@ -170,7 +170,20 @@ oqi_df = (
     )
 )
 
+# Raw OQI
 oqi_df["OQI"] = oqi_df["OQI"].round(1)
+
+# --- 6. Calculate league-average opponent quality ---
+# Use all actual matchup observations so every scheduled game is weighted equally
+league_avg_oqi = actual_schedule["Opponent Weekly Quality"].mean()
+
+# --- 7. Convert OQI to OQI+ ---
+# 100 = league average
+# >100 = tougher-than-average schedule
+# <100 = easier-than-average schedule
+oqi_df["OQI+"] = (
+    oqi_df["OQI"] / league_avg_oqi * 100
+).round(0)
 
 # Add cumulative Wins and Losses across all seasons (no reset per season)
 df = df.sort_values(["Abbrev", "Season", "Week"]).copy()
@@ -234,7 +247,7 @@ latest_df = latest_df.merge(score_stats, on="Abbrev", how="left")
 
 # Add Opponent Quality Index
 latest_df = latest_df.merge(
-    oqi_df[["Abbrev", "OQI"]],
+    oqi_df[["Abbrev", "OQI", "OQI+"]],
     on="Abbrev",
     how="left"
 )
@@ -268,14 +281,14 @@ latest_df = latest_df.sort_values("True Win %", ascending=False).reset_index(dro
 latest_df["Rank"] = latest_df.index + 1
 
 # --- Calculate MIN and MAX OQI
-max_oqi = latest_df["OQI"].max()
-min_oqi = latest_df["OQI"].min()
+max_oqi = latest_df["OQI+"].max()
+min_oqi = latest_df["OQI+"].min()
 
 # === COLUMNS TO DISPLAY ===
 display_columns = [
     "Rank", "Abbrev_Owner", "Wins", "Losses",
     "True Win % Display", "Actual Win % Display", "Diff",
-    "OQI",
+    "OQI+",
     "AVG", "MED", "HIGH", "LOW"
 ]
 
@@ -287,7 +300,7 @@ header_map = {
     "True Win % Display": "True Win %",
     "Actual Win % Display": "Actual Win %",
     "Diff": "Diff (True - Actual)",
-    "OQI": "OQI",
+    "OQI+": "OQI+",
     "AVG": "AVG",
     "MED": "MED",
     "HIGH": "HIGH",
@@ -349,8 +362,8 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
             sign = "+" if diff_val > 0 else ""
             cell_html = f"<span style='color:{color}; font-weight:600;'>{sign}{diff_val}%</span>"
 
-        elif col == "OQI":
-            oqi_val = row["OQI"]
+        elif col == "OQI+":
+            oqi_val = row["OQI+"]
         
             if pd.isna(oqi_val):
                 cell_html = ""
@@ -488,10 +501,10 @@ fig.update_layout(
     )
 )
 
-# === True Win % vs. OQI ===
+# === True Win % vs. OQI+ ===
 
 # Assuming latest_df is already defined
-x2 = latest_df['OQI']
+x2 = latest_df['OQI+']
 y2 = latest_df['True Win %']
 labels = latest_df['Abbrev']
 
@@ -600,7 +613,7 @@ fig2.update_layout(
     
     # Chart title
     title=dict(
-        text="TRUE WIN % vs. Opponent Quality Index (OQI)",
+        text="TRUE WIN % vs. Opponent Quality Index Plus (OQI+)",
         font=dict(
             family="Oswald, sans-serif",
             size=18,
@@ -616,7 +629,7 @@ fig2.update_layout(
     
     # X-axis configuration
     xaxis=dict(
-        title="Opponent Quality Index (OQI)",
+        title="Opponent Quality Index Plus (OQI+)",
         tickfont=dict(color=LIGHT_GREY),
         showgrid=True,
         gridcolor="#2A2A2A",   # subtle gray gridlines
@@ -719,7 +732,7 @@ fig_h2h.update_layout(
 tab1, tab2, tab3, tab4 = st.tabs([
     "Standings",
     "True Win % vs. Actual Win %",
-    "True Win % vs. OQI",
+    "True Win % vs. OQI+",
     "Head-to-Head"
 ])
 
@@ -780,7 +793,7 @@ st.markdown(
             is the percentage of scheduled weekly matchups that your team actually won over that same duration.
         </p>
         <p>
-            <strong><span style='color:{TEXT_COLOR};'>Opponent Quality Index (OQI)</span></strong> measures the average weekly strength of 
+            <strong><span style='color:{TEXT_COLOR};'>Opponent Quality Index (OQI+)</span></strong> measures the average weekly strength of 
             a team’s actual scheduled opponents based on how those opponents performed against the entire league that week. A higher OQI 
             indicates a tougher schedule, while a lower OQI indicates an easier schedule.
         </p>
