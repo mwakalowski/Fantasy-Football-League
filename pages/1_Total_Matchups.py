@@ -349,7 +349,7 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
             cell_html = int(row[col])
 
         elif col == "True Win % Display":
-            style += f" color:{ESPN_GREEN}; font-weight:600;"
+            style += f" color:{ESPN_YELLOW}; font-weight:600;"
             cell_html = row[col]
 
         elif col == "Actual Win % Display":
