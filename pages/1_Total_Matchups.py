@@ -779,6 +779,11 @@ st.markdown(
             <strong><span style='color:{ESPN_BLUE};'>ACTUAL WIN %</span></strong> 
             is the percentage of scheduled weekly matchups that your team actually won over that same duration.
         </p>
+        <p>
+            <strong><span style='color:{TEXT_COLOR};'>Opponent Quality Index (OQI)</span></strong> measures the average weekly strength of 
+            a team’s actual scheduled opponents based on how those opponents performed against the entire league that week. A higher OQI 
+            indicates a tougher schedule, while a lower OQI indicates an easier schedule.
+        </p>
     </div>
     """,
     unsafe_allow_html=True
