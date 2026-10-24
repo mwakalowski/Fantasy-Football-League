@@ -377,7 +377,7 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
         
                 cell_html = (
                     f"<span style='color:{color}; font-weight:600;'>"
-                    f"{oqi_val:.1f}"
+                    f"{oqi_val:.0f}"
                     f"</span>"
                 )
 
