@@ -14,8 +14,8 @@ GREY = "#4C4C4C"
 RED = "#FF0000"
 ESPN_BLUE = "#3F8EF3"
 ESPN_GREEN = "#00FF66"
-GREEN_DARK = "#228B22"
-RED_DARK = "#B22222"
+ESPN_YELLOW = "#FFD84D"
+ESPN_RED = "#FF4D4D"
 
 # === TEAM COLORS  ===
 TEAM_COLORS = {
@@ -358,7 +358,7 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
 
         elif col == "Diff":
             diff_val = round(row["Diff"], 1)
-            color = GREEN_DARK if diff_val > 0 else RED_DARK if diff_val < 0 else LIGHT_GREY
+            color = ESPN_GREEN if diff_val > 0 else ESPN_RED if diff_val < 0 else LIGHT_GREY
             sign = "+" if diff_val > 0 else ""
             cell_html = f"<span style='color:{color}; font-weight:600;'>{sign}{diff_val}%</span>"
 
@@ -369,9 +369,9 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
                 cell_html = ""
             else:
                 if oqi_val == max_oqi:
-                    color = RED_DARK
+                    color = ESPN_RED
                 elif oqi_val == min_oqi:
-                    color = GREEN_DARK
+                    color = ESPN_GREEN
                 else:
                     color = LIGHT_GREY
         
@@ -385,9 +385,9 @@ for i, (_, row) in enumerate(latest_df.iterrows()):
             val = row[col]
         
             if val == max_vals[col]:
-                style += f" color:{GREEN_DARK}; font-weight:600;"
+                style += f" color:{ESPN_GREEN}; font-weight:600;"
             elif val == min_vals[col]:
-                style += f" color:{RED_DARK}; font-weight:600;"
+                style += f" color:{ESPN_RED}; font-weight:600;"
             else:
                 style += f" color:{LIGHT_GREY};"
         
