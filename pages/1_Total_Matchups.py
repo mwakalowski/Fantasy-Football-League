@@ -719,7 +719,7 @@ fig_h2h.update_layout(
 tab1, tab2, tab3, tab4 = st.tabs([
     "Standings",
     "True Win % vs. Actual Win %",
-    "True Win % vs. Diff.",
+    "True Win % vs. OQI",
     "Head-to-Head"
 ])
 
